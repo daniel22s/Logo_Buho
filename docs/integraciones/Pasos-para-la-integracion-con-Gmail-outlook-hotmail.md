@@ -35,9 +35,9 @@ Tu bandeja de entrada esta lista, puedes dirigirte a más ajustes y podrás conf
 Luego ingrese a la bandeja de gmail / Configuración, habilite **IMAP** e ingrese los siguientes datos en los campos:
 
 * **Dirección:** Ingrese **imap.gmail.com**
-* **Puerto:** Ingrese el puerto **993** de gmail, si tuvieras outlook ingresa a este [link](#) para ver los puertos.
+* **Puerto:** Ingrese el puerto **993** de gmail, si tuvieras outlook ingresa a este **[link](#)** para ver los puertos.
 * **Iniciar sesión:** Ingresa tu **correo** donde recibirás los mensajes.
-* **Contraseña:** Para **generar la contraseña de app de Gmail, ingresa a este** [link](#) para realizarlo paso a paso. Copia la contraseña e ingresala en el campo. En caso que tengas el proveedor de correo como **Outlook**, deberás solo ingresar tu contraseña normal de inicio de sesión.
+* **Contraseña:** Para **generar la contraseña de app de Gmail, ingresa a este** **[link](#)** para realizarlo paso a paso. Copia la contraseña e ingresala en el campo. En caso que tengas el proveedor de correo como **Outlook**, deberás solo ingresar tu contraseña normal de inicio de sesión.
 
 ![Alt text](img/gmail-outlook-hotmail-07.png)
 
