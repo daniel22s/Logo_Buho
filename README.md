@@ -1,4 +1,4 @@
-# Documentación Facturación Electrónica
+# Documentación Chat Buho
 
 Repositorio de documentación de nuestro sistema de facturación electrónica [Fastura](https://buho.la/fastura/). Aquí encontrarás guías y tutoriales para maximizar el uso de nuestra plataforma. 
 
