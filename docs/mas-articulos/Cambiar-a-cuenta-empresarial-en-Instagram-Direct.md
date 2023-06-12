@@ -32,7 +32,7 @@ Primero, asegúrate que tu cuenta de instagram sea **comercial / profesional**, 
 
 ![Alt text](img/listo_fin.jpg)
 
-:::info NOTA:**
+:::info NOTA:
 Puedes integrar tu canal de Instagram en nuestra plataforma de mensajería **[ChatBúho](https://buho.la/chat)**, realizándolo paso a paso en nuestro **[artículo](#)**.
 
 :::
