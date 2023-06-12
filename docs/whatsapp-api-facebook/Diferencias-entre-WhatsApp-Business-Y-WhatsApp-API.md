@@ -25,7 +25,6 @@ Eso sí. Es importante elegir el tipo de solución de WhatsApp que mejor se adap
 ## 1. WhatsApp Messenger
 La aplicación básica de WhatsApp está pensada para el **uso personal** y es gratuita tanto para Android como iOS. Al igual que otras aplicaciones de mensajería, permite la comunicación por **chats individuales y de grupo.**
 
-<img src="img/wsp_normal.jpg" width="300px">
 
 Solo tienes que darle acceso a los contactos de tu teléfono para chatear con aquellos que tengan cuenta de WhatsApp. Incluso puedes hacer llamadas de voz y vídeo a través de la aplicación.
 
@@ -34,7 +33,7 @@ Solo una **empresa muy pequeña tendría bastante con la aplicación personal de
 ## 2. WhatsApp Business
 WhatsApp Business es una aplicación distinta, pensada exclusivamente para las empresas. Incluso el logotipo es diferente.
 
-<img src="img/wsp_messenger.jpg" width="300px">
+
 
 WhatsApp siempre indica al usuario que está chateando con una empresa y tambien brinda las siguientes herramientas:
 
