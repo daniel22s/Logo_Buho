@@ -33,8 +33,8 @@ Las conversaciones de la Plataforma de WhatsApp Business se dividen en dos categ
 * **Iniciada por el usuario:** una conversación que se inicia en **respuesta al mensaje de un usuario**. Siempre que una empresa responda a un usuario dentro del intervalo de servicio al cliente de 24 horas, ese mensaje se asociará con una conversación iniciada por el usuario. Las empresas pueden enviar mensajes de formato libre dentro de este intervalo de servicio al cliente de 24 horas.
 * **Iniciada por la empresa:** una conversación que se inicia cuando una **empresa envía un mensaje a un usuario** fuera del intervalo de servicio al cliente de 24 horas. Los mensajes que den comienzo a una conversación iniciada por la empresa deberán utilizar una **[plantilla de mensaje](#)**.
   
-  |  Precios en Soles   	         PEN            	|
-|:-----------------------:	:-----------------------:	|
+  |  Precios    	  |           en Soles PEN            	|
+|:-----------------------:	|:-----------------------:	|
 | Iniciada por la empresa 	| Iniciada por el Cliente 	|
 |    0.23 cent. **aprox(*)**  	|   0.07 cent. **aprox(*)**   	|
 |                         	|                         	|
