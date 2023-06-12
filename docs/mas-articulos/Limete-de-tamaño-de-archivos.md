@@ -37,7 +37,7 @@ El límite de tamaño de archivo para Facebook Messenger, depende del tipo de ar
 
     - Hasta 25 MB por archivo.
 
-:::alert IMPORTANTE:
+:::danger IMPORTANTE:
 
 Algunos formatos de archivo pueden no ser compatibles con Messenger y, por lo tanto, no se podrán compartir en la plataforma.
 
@@ -59,7 +59,7 @@ El límite de tamaño de archivo para Instagram Direct, depende del tipo de arch
 
     - Hasta 25 MB por archivo.
 
-:::alert IMPORTANTE:
+:::danger IMPORTANTE:
 
 Algunos formatos de archivo pueden no ser compatibles con instagram Direct y, por lo tanto, no se podrán compartir en la plataforma.
 

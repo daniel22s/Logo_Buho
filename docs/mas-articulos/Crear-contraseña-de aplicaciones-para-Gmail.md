@@ -56,8 +56,8 @@ Finalmente se habrá creado la contraseña de la aplicación en Gmail, copia el 
 
 ![Alt text](img/mail_25.jpg)
 
-:::info
+:::info NOTA
 
-Conoce cómo integrar tu correo gmail a nuestra plataforma de Chatbúho. Lee nuestro [artículo](#).
+Conoce cómo integrar tu correo gmail a nuestra plataforma de **[Chatbúho](https://buho.la/chat)**. Lee nuestro **[artículo](#)**.
 
 :::
