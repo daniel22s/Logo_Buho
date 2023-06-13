@@ -49,14 +49,14 @@ Una empresa puede enviar varias plantillas de servicios públicos en una convers
 
 **2.    Iniciadas por el Usuario:**
 
-* Las conversaciones de servicio solo se iniciarán cuando no haya otra ventana de conversación abierta y una empresa responda a un usuario con un mensaje de formato libre dentro de la **[ventana de servicio al cliente de 24 horas](#).**
+* Las conversaciones de servicio solo se iniciarán cuando no haya otra ventana de conversación abierta y una empresa responda a un usuario con un mensaje de formato libre dentro de la **[ventana de servicio al cliente de 24 horas](https://developers.facebook.com/docs/whatsapp/conversation-types#customer-service-window).**
 * Si una empresa responde a un usuario con un mensaje de plantilla o envía un mensaje de plantilla en una conversación de servicio abierta, esto abre una nueva conversación basada en la categoría de plantilla.
   
 La excepción a esto son las conversaciones de puntos de entrada gratuitos. Durante la ventana gratuita, las empresas pueden enviar varias plantillas de diferentes categorías y no se abrirá ninguna conversación nueva.
 
 ## Hojas de tarifas para conversaciones de servicios públicos, marketing, autenticación y servicios: a partir del 1 de Abril del 2023
 
-Puede **[descargar](#)** las hojas de tarifas para marketing, utilidad y servicio a continuación. La hoja de tarifas para la autenticación se publicará en una fecha posterior, antes del lanzamiento del 1 de Abril.
+Puede **[descargar](https://developers.facebook.com/docs/whatsapp/updates-to-pricing#rate-cards-for-utility--marketing-and-service-conversations--effective-june-1--2023)** las hojas de tarifas para marketing, utilidad y servicio a continuación. La hoja de tarifas para la autenticación se publicará en una fecha posterior, antes del lanzamiento del 1 de Abril.
 
 **Tarjeta de tarifas de USD**
 
