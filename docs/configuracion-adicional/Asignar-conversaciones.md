@@ -1,3 +1,4 @@
+# Asignar conversaciones
 Cada conversación en Chat Búho puede tener un asignado. Un asignado puede ser añadido manualmente a la conversación a través de la consola web o la API, o las organizaciones pueden optar por el sistema de asignación round-robin **"Asignación equitativa grupal"**. Este documento explica cómo se puede asignar un agente a la conversación.
 
 ## Asignación manual

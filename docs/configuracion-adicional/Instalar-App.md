@@ -32,7 +32,7 @@ Ahora podrás responder a tus clientes desde cualquier sitio en donde estés.
 
 :::info NOTA:
 
-El aplicativo móvil se encuentra aún en desarrollo, por lo que sólo cuenta con funcionalidades esenciales, asimismo sugerimos priorizar el uso de nuestra plataforma web https://chat.buho.la.
+El aplicativo móvil se encuentra aún en desarrollo, por lo que sólo cuenta con funcionalidades esenciales, asimismo sugerimos priorizar el uso de nuestra plataforma web **https://chat.buho.la.**
 
 :::
 

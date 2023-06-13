@@ -22,7 +22,7 @@ Posteriormente visualizarás todas las **herramientas** administrativas de tu fa
 
 ![Alt text](img/WhatsApp-API-02.png)
 
-:::Info RECUERDA:
+:::info RECUERDA:
 
 Es importante seleccionar la cuenta del administrador comercial que esté relacionada a la fanpage, en el menú desplegable.
 
@@ -69,7 +69,9 @@ Selecciona el botón **Configurar** y aparecerá en la sección lateral izquierd
 En esta sección deberás ingresar el número a integrar con WhatsApp API, luego seleccionar el botón **Agregar número de teléfono.**
 
 :::info RECUERDA:
+
 El número de la integración no debe contar con cuenta asociada de WhatsApp Messenger o Business y tampoco la app instalada, debido a que es un requisito importante que solicita Facebook. Te invitamos a leer nuestro artículo **[Migración WhatsApp Business al WhatsApp Api : Preguntas Frecuentes](/docs/whatsapp-api-facebook/Migracion-WhatsApp-Business-al-WhatsApp-Api-Preguntas-Frecuentes.md)**
+
 :::
 
 ![Alt text](img/WhatsApp-API-09.jpg)
@@ -232,7 +234,7 @@ Luego selecciona el texto en azul, configuración básica.
 
 ![Alt text](img/WhatsApp-API-36.jpg)
 
-Mira nuestro video de la **[implementación con WhatsApp API](/docs/whatsapp-api-facebook/Video-de-%20integraci%C3%B3n-con-WhatsApp-API.md).**
+Mira nuestro video de la **[implementación con WhatsApp API](/docs/whatsapp-api-facebook/Pasos-para-la-integracion-de-WhatsApp-API.md).**
 
 :::info RECUERDA:
 
