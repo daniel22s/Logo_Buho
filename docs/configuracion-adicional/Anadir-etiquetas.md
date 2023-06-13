@@ -6,13 +6,13 @@ Las etiquetas están vinculadas a la cuenta y se pueden usar para crear flujos d
 
 Para añadir etiquetas, haga clic en **Configuración** en la pantalla de inicio de Chat Búho. Posteriormente a **Etiquetas** y luego seleccionar el botón **Añadir Etiqueta.**
 
-![Alt text](img/A%C3%B1adir-etiquetas-01.jpg)
+![Alt text](img/Anadir-etiquetas-01.jpg)
 
 Visualizará en la imágen donde puede diseñar su propia etiqueta.
 
 Al agregar más etiquetas, trate de darles nombres significativos, así como diferentes colores para mantener la distinción y la claridad.
 
-![Alt text](img/A%C3%B1adir-etiquetas-02.jpg)
+![Alt text](img/Anadir-etiquetas-02.jpg)
 
 |           Nombre del campo           	|                                      Valor                                      	|                                              Observaciones                                             	|
 |:------------------------------------:	|:-------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------:	|
@@ -25,4 +25,4 @@ Después selecciona el botón **Crear** y se mostrará el mensaje **etiqueta agr
 
 Tener en cuenta que puede crear tantas etiquetas como requiera y también lo pueden utilizar todos los equipos.
 
-![Alt text](img/A%C3%B1adir-etiquetas-03.jpg)
+![Alt text](img/Anadir-etiquetas-03.jpg)

@@ -58,7 +58,7 @@ Asegúrate de mostrar toda la información de tu documento de identidad y las cu
 Si sigue teniendo problemas con el proceso de verificación, puede deberse a que su presentación está incompleta, a que los documentos no se pueden ver, a que los datos de la empresa en los documentos legales no coinciden con los datos que usted proporcionó o a otras cosas.
 
 :::info RECUERDA:
-* La verificación del negocio difiere de la insignia verificada, la confirmación de identidad personal y la insignia verificada en Instagram. No recibirás una insignia de cuenta verificada por verificar tu negocio.
+* La verificación del negocio difiere de la **[insignia verificada](https://www.facebook.com/help/1288173394636262)**, la confirmación de identidad personal y la insignia verificada en Instagram. No recibirás una insignia de cuenta verificada por verificar tu negocio.
 
  * Meta impedirá la verificación de tu negocio, eliminará el estado de verificación de tu negocio o tomará más medidas con tu cuenta si brindas información falsa o engañosa durante el proceso de verificación, intentas reclamar responsabilidad y verificar un negocio que no estás autorizado a representar o tratas de evitar nuestros sistemas de revisión de verificaciones.
 

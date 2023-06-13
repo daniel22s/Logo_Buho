@@ -1,6 +1,6 @@
 # Cómo crear contraseña de aplicaciones para Gmail
 
-En este artículo te enseñaremos a como crear la contraseña de aplicaciones para Gmail, asimismo podrás integrar tu correo con nuestra de plataforma mensajería de **[Chat Búho](#)**.
+En este artículo te enseñaremos a como crear la contraseña de aplicaciones para Gmail, asimismo podrás integrar tu correo con nuestra de plataforma mensajería de **[Chat Búho](#https://buho.la/chat)**.
 
 ## Ingresa a tu cuenta de google
 
@@ -52,7 +52,7 @@ Posteriormente ingresa el nombre de la aplicación, que es **ChatBúho** y selec
 
 ![Alt text](img/gmail_20.png)
 
-Finalmente se habrá creado la contraseña de la aplicación en Gmail, copia el código que esta en el recuadro amarillo y utilizalo para la integración de email con ChatBúho.
+Finalmente se habrá creado la contraseña de la aplicación en Gmail, copia el código que esta en el recuadro amarillo y utilizalo para la [integración de email](/docs/integraciones/Pasos-para-la-integracion-con-Gmail-outlook-hotmail.md) con ChatBúho.
 
 ![Alt text](img/mail_25.jpg)
 

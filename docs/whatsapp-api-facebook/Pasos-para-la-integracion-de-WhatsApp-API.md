@@ -1,6 +1,6 @@
 # Pasos para la integración de WhatsApp API
 
-En este artículo te enseñaremos a como realizar la implementación del WhatsApp API con nuestra plataforma de mensajería de [Chat Búho](#).
+En este artículo te enseñaremos a como realizar la implementación del WhatsApp API con nuestra plataforma de mensajería de [Chat Búho](https://buho.la/chat).
 
 :::info MIRA:
 
@@ -69,7 +69,7 @@ Selecciona el botón **Configurar** y aparecerá en la sección lateral izquierd
 En esta sección deberás ingresar el número a integrar con WhatsApp API, luego seleccionar el botón **Agregar número de teléfono.**
 
 :::info RECUERDA:
-El número de la integración no debe contar con cuenta asociada de WhatsApp Messenger o Business y tampoco la app instalada, debido a que es un requisito importante que solicita Facebook. Te invitamos a leer nuestro artículo **[Migración WhatsApp Business al WhatsApp Api : Preguntas Frecuentes](#)**
+El número de la integración no debe contar con cuenta asociada de WhatsApp Messenger o Business y tampoco la app instalada, debido a que es un requisito importante que solicita Facebook. Te invitamos a leer nuestro artículo **[Migración WhatsApp Business al WhatsApp Api : Preguntas Frecuentes](/docs/whatsapp-api-facebook/Migracion-WhatsApp-Business-al-WhatsApp-Api-Preguntas-Frecuentes.md)**
 :::
 
 ![Alt text](img/WhatsApp-API-09.jpg)
@@ -110,7 +110,7 @@ Estos datos del número de whatsapp están dentro del **cuadro verde**, cada nú
 ![Alt text](img/WhatsApp-API-13.jpg)
 
 ## 7.  Creación del Token permanente o Clave API
-Posteriormente, esta sección se creará la **Clave API permanente**, que servirá para conectar el numero de WhatsApp API con nuestra Plataforma **[Chat Búho](#)**. La clave API la usaremos en la sección **nro 8 de la implementación en plataforma de ChatBúho**.
+Posteriormente, esta sección se creará la **Clave API permanente**, que servirá para conectar el numero de WhatsApp API con nuestra Plataforma **[Chat Búho](https://buho.la/chat)**. La clave API la usaremos en la sección **nro 8 de la implementación en plataforma de ChatBúho**.
 
 Para ello debemos dirigirnos a mis Apps que está en la barra superior de la página.
 
@@ -192,10 +192,10 @@ Después debes seleccionar el botón **Crear canal de WhatsApp** y agregar a los
 
 ![Alt text](img/WhatsApp-API-28.png)
 
-Despues de **[añadir a los agentes](#)** aparecerán los datos del Webhook, recuerda copiarlos y guardarlos.
+Despues de **[añadir a los agentes](/docs/configuracion-inicial/Anadir-agentes.md)** aparecerán los datos del Webhook, recuerda copiarlos y guardarlos.
 
 ## 9.  Configuración Webhook
-Posteriormente deberás dirigirte a tu cuenta de Facebook developers y escoger la opción del texto azul **[Configurar Webhooks](#).**
+Posteriormente deberás dirigirte a tu cuenta de Facebook developers y escoger la opción del texto azul **Configurar Webhooks.**
 
 ![Alt text](img/WhatsApp-API-29.jpg)
 
@@ -232,10 +232,10 @@ Luego selecciona el texto en azul, configuración básica.
 
 ![Alt text](img/WhatsApp-API-36.jpg)
 
-Mira nuestro video de la **[implementación con WhatsApp API](#).**
+Mira nuestro video de la **[implementación con WhatsApp API](/docs/whatsapp-api-facebook/Video-de-%20integraci%C3%B3n-con-WhatsApp-API.md).**
 
 :::info RECUERDA:
 
-Después de estos pasos, puede hacer pruebas de conversaciones en la plataforma de [Chat Búho](#).
-Asimismo deberás crear las plantillas de mensajes para iniciar una conversación pasadas las 24 horas, para saber cómo realizarlo, [mira este artículo](#).
+Después de estos pasos, puede hacer pruebas de conversaciones en la plataforma de **[Chat Búho](https://buho.la/chat).**
+Asimismo deberás crear las plantillas de mensajes para iniciar una conversación pasadas las 24 horas, para saber cómo realizarlo, **[mira este artículo](/docs/configuracion-inicial/Plantillas-de-mensajes.md).**
 :::

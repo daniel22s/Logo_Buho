@@ -6,7 +6,7 @@ Para empezar a añadir equipos, vaya a **Ajustes → Equipos → Crear nuevo equ
 
 ![Alt text](img/Anadir-equipos-01.jpg)
 
-# Crear equipos
+## Crear equipos
 Verá la pantalla que se muestra a continuación:
 
 * Añada equipos según sus necesidades.

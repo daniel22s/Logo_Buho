@@ -1,5 +1,5 @@
 # Pasos para la integración de Telegram
-En este artículo aprenderás como implementar Telegram a nuestra plataforma de Chat Búho.
+En este artículo aprenderás como implementar Telegram a nuestra plataforma de **[Chat Búho](https://buho.la/chat)**.
 
 ## Módulo Ajustes
 Primero ingresamos al módulo **Ajustes** ⚙️ luego a **Entradas.**

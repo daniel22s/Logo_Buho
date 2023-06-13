@@ -51,7 +51,7 @@ La API de WhatsApp Business es un servicio distinto a la aplicación WhatsApp Bu
 
 **La API de WhatsApp Business permite acceder a todas las herramientas de marketing de WhatsApp y está pensada para empresas medianas y grandes.**
 
-No tiene una interfaz propia, ya que usa la de la plataforma a la que se conecta.  Por ejemplo, puedes usar nuestra plataforma de [ChatBuho](#) para gestionar toda la comunicación de Facebook Messenger, WhatsApp, y otros  7 canales de mensajería en un mismo sitio.
+No tiene una interfaz propia, ya que usa la de la plataforma a la que se conecta.  Por ejemplo, puedes usar nuestra plataforma de **[ChatBuho](https://buho.la/chat)** para gestionar toda la comunicación de Facebook Messenger, WhatsApp, y otros  7 canales de mensajería en un mismo sitio.
 
 ### Funciones de WhatsApp API:
 

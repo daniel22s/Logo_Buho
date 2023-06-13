@@ -1,5 +1,5 @@
 # Pasos para la integración del canal Website
-En este artículo aprenderás como implementar el canal de Website en nuestra plataforma de **[Chat Búho.](#)**
+En este artículo aprenderás como implementar el canal de Website en nuestra plataforma de **[Chat Búho.](https://buho.la/chat)**
 
 ## Módulo Ajustes
 Primero ingresamos al módulo **Ajustes** ⚙️ luego a **Entradas.**
@@ -39,7 +39,7 @@ Luego de haber realizado los pasos anteriores, se debe de añadir a los agentes 
 
 Las conversaciones se enrutarán a los agentes solo si están asociados con la bandeja de entrada. Incluso si es un administrador, debe agregarse como agente a la Bandeja de entrada para ver la Bandeja de entrada en su pantalla.
 
-Seleccione los **Agentes** del menú desplegable y haga clic en **Agregar agentes.** Si no se han agregado agentes, siga los pasos para  **[agregar agentes.](#)**
+Seleccione los **Agentes** del menú desplegable y haga clic en **Agregar agentes.** Si no se han agregado agentes, siga los pasos para  **[agregar agentes.](/docs/configuracion-inicial/Anadir-agentes.md)**
 
 
 ## Voila, Todo listo!

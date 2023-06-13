@@ -1,12 +1,12 @@
 # Pasos para la integración de Instagram Direct
 
-En este artículo aprenderás como implementar Instagram Messenger a nuestra plataforma de mensajería de **[Chat Búho.](#)**
+En este artículo aprenderás como implementar Instagram Messenger a nuestra plataforma de mensajería de **[Chat Búho.](https://buho.la/chat)**
 
 ## Cuenta Empresarial
-Primero, asegúrate que tu cuenta de instagram sea **comercial / profesional** y que la página de Facebook (fanpage) esté conectada a la cuenta de **Instagram**, si tu cuenta no es empresarial mira el siguiente **[artículo](#)** para realizarlo,caso contrario no se aplicará de forma efectiva la integración y no llegarán los mensajes.
+Primero, asegúrate que tu cuenta de instagram sea **comercial / profesional** y que la página de Facebook (fanpage) esté conectada a la cuenta de **Instagram**, si tu cuenta no es empresarial mira el siguiente **[artículo](/docs/mas-articulos/Cambiar-a-cuenta-empresarial-en-Instagram-Direct.md)** para realizarlo,caso contrario no se aplicará de forma efectiva la integración y no llegarán los mensajes.
 
 ## Conectar Instagram con Facebook
-Debes ser administrador de la página de **Facebook**, dirígete a este **[link](#)** para ver las páginas que administras.
+Debes ser administrador de la página de **Facebook**, dirígete a este **[link](https://www.facebook.com/pages/?category=your_pages)** para ver las páginas que administras.
 
 Luego ingresa a la página que deseas conectar con **Instagram** y selecciona **Configuración** ⚙️
 

@@ -17,7 +17,7 @@ Cuando ingresamos a la sección **chat del cliente**, observaremos las siguiente
 3. **Emoji:** Selecciona el emoji que añadirás a tu conversación.
 4. **Adjuntar archivos:** Envía archivos(imágenes,documentos).
 5. **Grabar audio:** Envía un mensajes de voz.
-6. **Plantilla de WhatsApp:** Selecciona la plantilla para iniciar una conversación de WhatsApp que se haya cerrado pasada las 24 horas sin interacción. Revisa nuestro artículo para crear una plantilla.
+6. **Plantilla de WhatsApp:** Selecciona la plantilla para iniciar una conversación de WhatsApp que se haya cerrado pasada las 24 horas sin interacción. Revisa nuestro **[artículo](/docs/configuracion-inicial/Plantillas-de-mensajes.md)** para crear una plantilla.
 
 ## Conversación desde la sección del contacto:
 

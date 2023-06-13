@@ -2,7 +2,7 @@
 
 ## Cuenta Empresarial
 
-Primero, asegúrate que tu cuenta de instagram sea **comercial / profesional**, visualice esta **[guía detallada](#)** de instagram para realizarlo o siga estos pasos:
+Primero, asegúrate que tu cuenta de instagram sea **comercial / profesional**, visualice esta **[guía detallada](https://help.instagram.com/502981923235522)** de instagram para realizarlo o siga estos pasos:
 
 1. Sólo deberás ingresar al ícono de **configuración** ⚙️.
 
@@ -33,6 +33,6 @@ Primero, asegúrate que tu cuenta de instagram sea **comercial / profesional**, 
 ![Alt text](img/listo_fin.jpg)
 
 :::info NOTA:
-Puedes integrar tu canal de Instagram en nuestra plataforma de mensajería **[ChatBúho](https://buho.la/chat)**, realizándolo paso a paso en nuestro **[artículo](#)**.
+Puedes integrar tu canal de Instagram en nuestra plataforma de mensajería **[ChatBúho](https://buho.la/chat)**, realizándolo paso a paso en nuestro **[artículo](/docs/integraciones/Pasos-para-la-integracion-de-Instagram-direct.md)**.
 
 :::

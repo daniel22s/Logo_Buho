@@ -36,7 +36,7 @@ Debe tener asignado el permiso Administrar cuenta de WhatsApp para agregar una t
 ## Agregue una tarjeta de crédito a su cuenta de WhatsApp Business
 Para agregar una tarjeta de créditoo debito a su cuenta de WhatsApp Business Platform:
 
-1. En **Business Manager**, ve a la [WhatsApp Accounts o Cuentas de WhatsApp](https://business.facebook.com/wa/manage/home/)
+1. En **Business Manager**, ve a la **[WhatsApp Accounts o Cuentas de WhatsApp](https://business.facebook.com/wa/manage/home/)**
 
 2. Seleccione la cuenta de WhatsAPP relacionado al número que utilizó para la integración con ChatBúho, seleccione el ícono de 3 puntos.
 
