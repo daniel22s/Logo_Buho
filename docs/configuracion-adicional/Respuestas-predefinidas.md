@@ -26,8 +26,8 @@ Los campos mostrados en la ventana emergente se describen a continuación.
 
 | Nombre del campo 	| Descripción                                                                                                                                                                         	|
 |------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Palabra clave    	| Introduzca una palabra clave - longitud mínima de 2 caracteres. La palabra clave es único. No se puede crear una respuesta predefinida con la misma palabra dos veces en la cuenta. 	|
-| Contenido        	| Escriba el mensaje que desea enviar cuando la palabra clave se introduce en el chat.                                                                                                	|
+| **Palabra clave**    	| Introduzca una palabra clave - longitud mínima de 2 caracteres. La palabra clave es único. No se puede crear una respuesta predefinida con la misma palabra dos veces en la cuenta. 	|
+| **Contenido**        	| Escriba el mensaje que desea enviar cuando la palabra clave se introduce en el chat.                                                                                                	|
 
 Una vez que ingrese los detalles, haga clic en el botón **Enviar**. Si la solicitud es correcta, se mostrará un mensaje **"Respuesta predefinidas agregada correctamente".**
 
