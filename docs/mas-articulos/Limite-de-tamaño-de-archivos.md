@@ -53,7 +53,7 @@ El límite de tamaño de archivo para Instagram Direct, depende del tipo de arch
 
 2. **Archivos de audio:**
     
-    -Hasta 16 MB por archivo.
+    - Hasta 16 MB por archivo.
 
 3. **Documentos (PDF, DOC, PPT, etc.):**
 
