@@ -1,6 +1,6 @@
 # Pasos para la integración de WhatsApp API
 
-En este artículo te enseñaremos a como realizar la implementación del WhatsApp API con nuestra plataforma de mensajería de [Chat Búho](https://buho.la/chat).
+En este artículo te enseñaremos a como realizar la implementación del WhatsApp API con nuestra plataforma de mensajería de **[Chat Búho](https://buho.la/chat).**
 
 :::info MIRA:
 
