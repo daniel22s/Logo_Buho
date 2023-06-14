@@ -37,8 +37,8 @@ Si desea eliminar la carpeta guardada, puede realizarlo seleccionando el botón 
 
 Por consiguiente, observará una ventana emergente de **Confirmar eliminación**:
 
-Si hace clic en el botón **No, Mantenerlo:** cerrará la ventana emergente y volverá a la vista de carpeta.
-Si hace clic en el botón **Sí, Eliminar:** eliminará la vista.
+- Si hace clic en el botón **No, Mantenerlo:** cerrará la ventana emergente y volverá a la vista de carpeta.
+- Si hace clic en el botón **Sí, Eliminar:** eliminará la vista.
 Después de eliminar, Si la carpeta está vacía, volverá a todas las conversaciones o vistas filtradas, o si la carpeta tiene longitud, se abrirá la siguiente carpeta cerca de la eliminada.
 
 ![Alt text](img/Carpetas_07.jpg)
