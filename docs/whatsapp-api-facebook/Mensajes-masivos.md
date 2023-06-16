@@ -13,13 +13,16 @@ Asimismo, te proporcionamos un **[video tutorial](#)** para que puedas obtener e
 * **Token** (que podrás encontrar dentro de tu cuenta de Chat Buho, accediendo a la bandeja de WhatsApp).
 
 ## Prepara tu base de datos
-Posteriormente **crea un archivo de Excel** con los campos **name** (nombres) y **phone** (números de WhatsApp de tus destinatarios). Asegúrate de incluir el **código del país** **51XX-XXX-XXX** en el número y de eliminar cualquier signo o carácter especial.
+Posteriormente **crea un archivo de Excel** con los campos **name** (nombres) y **phone_number** (números de WhatsApp de tus destinatarios). Asegúrate de incluir el **código del país** **51XX-XXX-XXX** en el número y de eliminar cualquier signo o carácter especial.
 
+![Alt text](img/01_masivos.png)
 
 :::info NOTA
 Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo de Excel que puedes utilizar como referencia.
 
 :::
+
+##
 
 
 
