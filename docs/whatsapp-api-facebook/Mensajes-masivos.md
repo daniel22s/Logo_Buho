@@ -40,8 +40,7 @@ Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo
 * **Costo por Mensaje:** Es importante tener en cuenta que WhatsApp cobra aproximadamente S/0.20 por cada mensaje enviado. Te recomendamos considerar este costo al planificar tus campañas de WhatsApp Marketing.
 
 :::danger IMPORTANTE
- Política de Uso Responsable de Mensajes Masivos por WhatsApp
-QR Chat Buho herramienta para enviar mensajes masivos por WhatsApp de manera eficiente y efectiva. Sin embargo, **es fundamental que todos los usuarios comprendan y respeten las políticas y restricciones establecidas por WhatsApp**.
+ Política de Uso Responsable de Mensajes Masivos por WhatsApp API, herramienta para enviar mensajes masivos por WhatsApp de manera eficiente y efectiva. Sin embargo, **es fundamental que todos los usuarios comprendan y respeten las políticas y restricciones establecidas por WhatsApp**.
 
 WhatsApp tiene una política de tolerancia cero con respecto al envío de spam y mensajes no deseados. **No se permite el uso de nuestra plataforma para enviar mensajes masivos con fines de spam o para molestar a los destinatarios.** El envío de spam puede tener consecuencias graves y perjudicar tanto a los usuarios como a nuestra empresa.
 
