@@ -88,7 +88,7 @@ Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo
 * **Envío de Mensajes en Grupos:** Los mensajes se envían en grupos de 50 mensajes cada 2 segundos. Esta configuración garantiza una entrega eficiente y segura de tus campañas de WhatsApp Marketing.
 * **Seguimiento de Entrega:** Dado que nuestro servicio está parcialmente integrado en Chat Buho, no es posible conocer el número exacto de mensajes que no llegaron a su destino. Sin embargo, si tu base de contactos está correctamente configurada y no envías spam, puedes tener la tranquilidad de que tu mensaje será entregado a todos tus contactos reales.
 * **Registro de Respuestas:** Aunque no podrás ver los mensajes enviados directamente en Chat Buho, las respuestas de tus clientes seguirán llegando como de costumbre a Chat Buho. De esta manera, podrás dar seguimiento a las interacciones y mantener una comunicación fluida con tus clientes.
-* **Costo por Mensaje:** Es importante tener en cuenta que WhatsApp cobra aproximadamente S/0.20 por cada mensaje enviado. Te recomendamos considerar este costo al planificar tus campañas de WhatsApp Marketing.
+* **Costo por Mensaje:** Es importante tener en cuenta que WhatsApp **cobra aproximadamente S/0.20 por cada mensaje enviado**. Te recomendamos considerar este costo al planificar tus campañas de WhatsApp Marketing.
 
 :::danger IMPORTANTE
  Política de Uso Responsable de Mensajes Masivos por WhatsApp API, herramienta para enviar mensajes masivos por WhatsApp de manera eficiente y efectiva. Sin embargo, **es fundamental que todos los usuarios comprendan y respeten las políticas y restricciones establecidas por WhatsApp**.
