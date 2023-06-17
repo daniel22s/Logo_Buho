@@ -6,14 +6,47 @@ WhatsApp Marketing con **Chat Buho (WAM)** es un servicio gratuito diseñado exc
 
 Para obtener los datos del API de WhatsApp, previamente debes tener creado el app y agregado el número celular, para saber como crearlo, visita el siguiente **[artículo](/docs/whatsapp-api-facebook/Pasos-para-la-integracion-de-WhatsApp-API.md)**.
 
-Asimismo, te proporcionamos un **[video tutorial](#)** para que puedas obtener estos datos fácilmente, incluyendo:
+Deberás obtener los siguientes datos:
 
-* **ID Number** (ID del número), 
-* **ID WABA**(ID de la cuenta de WhatsApp Cloud API)
+* **ID número de teléfono** (ID del número), 
+* **ID de la cuenta de WhatsApp Business**(ID de la cuenta de WhatsApp Cloud API)
 * **Token** (que podrás encontrar dentro de tu cuenta de Chat Buho, accediendo a la bandeja de WhatsApp).
+
+Primero ingresa a **[facebook developer](https://developers.facebook.com/)** con la cuenta relacionada a su **Página de Facebook**. y dirígete a la sección de **WhatsApp > Configuración de la API**
+
+![Alt text](img/02_masivos.png)
+
+Posteriormente selecciona el número asociado a tu **WhatsApp API** y  aparecerá en la parte inferior el **ID del numero de teléfono**, como el **ID de la cuenta de WhatsApp Business.**
+
+![Alt text](img/03_masivos.png)
+
+### ID número de teléfono
+
+![Alt text](img/04_masivos.png)
+
+### ID de la cuenta de WhatsApp Business
+
+![Alt text](img/05_masivos.png)
+
+### Token
+
+Para obtener el token, dirígete a nuestra plataforma **[chat.buho.la](https://chat.buho.la/)** e Inicia Sesión.
+Después ingresa a **Ajustes ⚙️ > Entradas **
+
+![Alt text](img/06_masivos.png)
+
+Luego selecciona tu bandeja de WhatsApp y haz click en **Ajustes** ⚙️
+
+![Alt text](img/07_masivos.png)
+
+Una vez ingresado a la bandeja de entrada, selecciona la pestaña **Configuración > Clave API** y copia.
+
+![Alt text](img/08_masivos.png)
 
 ## Prepara tu base de datos
 Posteriormente **crea un archivo de Excel** con los campos **name** (nombres) y **phone_number** (números de WhatsApp de tus destinatarios). Asegúrate de incluir el **código del país** **51XX-XXX-XXX** en el número y de eliminar cualquier signo o carácter especial.
+
+**Ejemplo:**
 
 ![Alt text](img/01_masivos.png)
 
@@ -26,12 +59,30 @@ Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo
  Es fundamental contar con una plantilla de WhatsApp aprobada antes de enviar tus campañas. 
  Crea tu plantilla de WhatsApp, viendo este **[video](/docs/configuracion-inicial/Plantillas-de-mensajes.md)**.
 
+:::info RECUERDA
+
+ Que usarás el **nombre de la plantilla** que hayas creado previamente, para ingresarlo posteriormente en el formulario de Mensajes masivos.
+
+:::
+**Ejemplo:**
+![Alt text](img/09_masivos.png)
+
  ## ¡Es hora de comenzar a utilizar WAM! 
  Una vez realizado los puntos anteriores,sigue los siguientes pasos.
 
  1. Ingresa a **[chat.buho.la/wam](chat.buho.la/wam)**.
- 2. Completa los datos solicitados y sube tu base de datos.
- 3. Ingresa el nombre de la plantilla que has creado previamente o redacta un mensaje para enviar a tus clientes.
+
+![Alt text](img/10_masivos.png)
+
+ 2. Completa los datos solicitados **(ID número de teléfono /ID de la cuenta de WhatsApp Business/ Token)** y sube tu base de datos de excel.
+
+![Alt text](img/11_masivos.png)
+
+ 3. Ingresa el nombre de la **plantilla** que has creado previamente o **redacta un mensaje** para enviar a tus clientes.
+
+![Alt text](img/12_masivos.png)
+
+
 
 ## Puntos importantes a considerar
 * **Envío de Mensajes en Grupos:** Los mensajes se envían en grupos de 50 mensajes cada 2 segundos. Esta configuración garantiza una entrega eficiente y segura de tus campañas de WhatsApp Marketing.
