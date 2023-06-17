@@ -70,7 +70,7 @@ Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo
  ## ¡Es hora de comenzar a utilizar WAM! 
  Una vez realizado los puntos anteriores,sigue los siguientes pasos.
 
- 1. Ingresa a **[chat.buho.la/wam](chat.buho.la/wam)**.
+ 1. Ingresa a **[chat.buho.la/wam](https://chat.buho.la/wam)**.
 
 ![Alt text](img/10_masivos.png)
 
