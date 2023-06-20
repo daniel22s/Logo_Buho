@@ -31,7 +31,7 @@ A las empresas que usan la Plataforma de WhatsApp Business se les cobra por conv
 Las conversaciones de la Plataforma de WhatsApp Business se dividen en dos categorías, cuyos precios son diferentes:
 
 * **Iniciada por el usuario:** una conversación que se inicia en **respuesta al mensaje de un usuario**. Siempre que una empresa responda a un usuario dentro del intervalo de servicio al cliente de 24 horas, ese mensaje se asociará con una conversación iniciada por el usuario. Las empresas pueden enviar mensajes de formato libre dentro de este intervalo de servicio al cliente de 24 horas.
-* **Iniciada por la empresa:** una conversación que se inicia cuando una **empresa envía un mensaje a un usuario** fuera del intervalo de servicio al cliente de 24 horas. Los mensajes que den comienzo a una conversación iniciada por la empresa deberán utilizar una **[plantilla de mensaje](/docs/configuracion-inicial/Plantillas-de-mensajes.md)**.
+* **Iniciada por la empresa:** una conversación que se inicia cuando una **empresa envía un mensaje a un usuario** fuera del intervalo de servicio al cliente de 24 horas. Los mensajes que den comienzo a una conversación iniciada por la empresa deberán utilizar una **[plantilla de mensaje](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md)**.
 
 | Iniciada por la empresa 	| Iniciada por el Cliente 	|
 |-------------------------	|-------------------------	|

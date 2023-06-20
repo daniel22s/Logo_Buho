@@ -194,7 +194,7 @@ Después debes seleccionar el botón **Crear canal de WhatsApp** y agregar a los
 
 ![Alt text](img/WhatsApp-API-28.png)
 
-Despues de **[añadir a los agentes](/docs/configuracion-inicial/Anadir-agentes.md)** aparecerán los datos del Webhook, recuerda copiarlos y guardarlos.
+Despues de **[añadir a los agentes](/docs/configuracion-inicial/03-agentes.md)** aparecerán los datos del Webhook, recuerda copiarlos y guardarlos.
 
 ## 9.  Configuración Webhook
 Posteriormente deberás dirigirte a tu cuenta de Facebook developers y escoger la opción del texto azul **Configurar Webhooks.**
@@ -239,5 +239,5 @@ Mira nuestro video de la **[implementación con WhatsApp API](/docs/whatsapp-api
 :::info RECUERDA:
 
 Después de estos pasos, puede hacer pruebas de conversaciones en la plataforma de **[Chat Búho](https://buho.la/chat).**
-Asimismo deberás crear las plantillas de mensajes para iniciar una conversación pasadas las 24 horas, para saber cómo realizarlo, **[mira este artículo](/docs/configuracion-inicial/Plantillas-de-mensajes.md).**
+Asimismo deberás crear las plantillas de mensajes para iniciar una conversación pasadas las 24 horas, para saber cómo realizarlo, **[mira este artículo](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md).**
 :::

@@ -39,7 +39,7 @@ Luego de haber realizado los pasos anteriores, se debe de añadir a los agentes 
 
 Las conversaciones se enrutarán a los agentes solo si están asociados con la bandeja de entrada. Incluso si es un administrador, debe agregarse como agente a la Bandeja de entrada para ver la Bandeja de entrada en su pantalla.
 
-Seleccione los **Agentes** del menú desplegable y haga clic en **Agregar agentes.** Si no se han agregado agentes, siga los pasos para  **[agregar agentes.](/docs/configuracion-inicial/Anadir-agentes.md)**
+Seleccione los **Agentes** del menú desplegable y haga clic en **Agregar agentes.** Si no se han agregado agentes, siga los pasos para  **[agregar agentes.](/docs/configuracion-inicial/03-agentes.md)**
 
 
 ## Voila, Todo listo!

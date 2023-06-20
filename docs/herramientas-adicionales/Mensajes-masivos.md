@@ -57,7 +57,7 @@ Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo
 
 ## Crea tu plantilla de WhatsApp
  Es fundamental contar con una plantilla de WhatsApp aprobada antes de enviar tus campañas. 
- Crea tu plantilla de WhatsApp, viendo este **[video](/docs/configuracion-inicial/Plantillas-de-mensajes.md)**.
+ Crea tu plantilla de WhatsApp, viendo este **[video](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md)**.
 
 :::info RECUERDA
 
