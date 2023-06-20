@@ -47,12 +47,14 @@ Una vez ingresado a la bandeja de entrada, selecciona la pestaña **Configuraci�
 Posteriormente **crea un archivo de Excel** con los campos **name** (nombres) y **phone_number** (números de WhatsApp de tus destinatarios). Asegúrate de incluir el **código del país** **51XX-XXX-XXX** en el número y de eliminar cualquier signo o carácter especial.
 
 **Ejemplo:**
+**[Descargar excel de ejemplo](img/excel_ejemplo.xlsx)**
 
 ![Alt text](img/01_masivos.png)
 
 :::info NOTA
 Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo de Excel que puedes utilizar como referencia.
 
+**[Descargar excel de ejemplo](img/excel_ejemplo.xlsx)**
 :::
 
 ## Crea tu plantilla de WhatsApp
