@@ -3,7 +3,7 @@ Las plantillas de mensajes son modelos de mensajes que pueden ser utilizados par
 
 Esta opción ha sido creada para evitar que los clientes reciban mensajes de spam de las empresas y para mantener el elevado valor de WhatsApp como canal de interacción entre los clientes y las empresas. Esta es la razón por la que los modelos de Mensajes deben ser aprobados previamente.
 
-Para comprender bien el funcionamiento de los modelos de mensajes, es necesario comprender el funcionamiento de la [“Ventana temporal de 24 horas“](https://www.whatsapp.com/legal/business-policy/?lang=it). Esta ventana corresponde a un periodo de tiempo de 24 horas que empieza en el momento que el cliente se pone en contacto con la empresa a través de WhatsApp o responde a una plantilla enviada por la empresa. Durante estas 24 horas, WhatsApp permite a la empresa comunicarse con el cliente con mensajes de sesión (es decir, permite a la empresa escribir libremente al cliente utilizando texto, imágenes, documentos, etc.).
+Para comprender bien el funcionamiento de los modelos de mensajes, es necesario comprender el funcionamiento de la [“Ventana temporal de 24 horas“](https://www.whatsapp.com/legal/business-policy/?lang=es). Esta ventana corresponde a un periodo de tiempo de 24 horas que empieza en el momento que el cliente se pone en contacto con la empresa a través de WhatsApp o responde a una plantilla enviada por la empresa. Durante estas 24 horas, WhatsApp permite a la empresa comunicarse con el cliente con mensajes de sesión (es decir, permite a la empresa escribir libremente al cliente utilizando texto, imágenes, documentos, etc.).
 
 **Transcurridas las 24 horas desde el último mensaje del cliente (o si el cliente nunca se ha puesto en contacto con su empresa), será necesario utilizar una plantilla de mensaje que debe ser aprobada previamente por WhatsApp.**
 
@@ -40,4 +40,4 @@ En el panel de vista previa verás los activos multimedia o los valores de texto
 
 ## Guía paso a paso en video
 
-<p><iframe width="900" height="505" src="https://www.youtube.com/embed/HdmZBUs1abc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="100%" height="505" src="https://www.youtube.com/embed/HdmZBUs1abc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></p>

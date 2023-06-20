@@ -12,8 +12,10 @@ La documentación de ChatBúho es tu **guía completa para centralizar todas las
 
 Con ChatBúho, podrás agilizar la forma en que te comunicas con tus clientes, permitiendo el trabajo simultáneo y colaborativo. Esta plataforma te brinda la oportunidad de tener una visión completa de todas las conversaciones, facilitando la gestión y el seguimiento de las interacciones con tus clientes.
 
-Navegar por la documentación es sencillo. Con una estructura clara y accesible, podrás encontrar rápidamente la información que necesitas para aprovechar al máximo todas las funcionalidades de ChatBuho.
 
-No pierdas más tiempo buscando diferentes herramientas de comunicación dispersas.
+## Primeros pasos de configuración
 
-**¡Sumérgete en la documentación de ChatBúho y descubre cómo utilizar esta plataforma para unificar tus chats, tener el control total de la comunicación con tus clientes y agilizar tus interacciones!**
+En este video te enseñaremos las configuraciones principales para empezar a utilizar nuestra plataforma de mensajería de  **[Chat Búho.](https://buho.la/chat)**
+
+<p><iframe width="100%" height="505" src="https://www.youtube.com/embed/sv4kggt1Oto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></p>
+

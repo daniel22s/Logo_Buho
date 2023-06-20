@@ -57,10 +57,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Doc',
+        title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'img/favicon.ico',
+          src: 'https://buho.la/images/chat/chat-buho.svg',
         },
         items: [
           // {

@@ -1,4 +1,4 @@
-# Añadir nuevos contactos
+# Contactos
 
 La sección de contactos en Chat Búho contiene los detalles de los usuarios finales/clientes con los que ha interactuado usando la plataforma de mensajería de Chat Búho. Puede considerarlo como una base de datos de clientes.
 

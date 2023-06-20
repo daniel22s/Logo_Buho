@@ -1,4 +1,4 @@
-# Pasos para la integración con Gmail/Outlook/Hotmail
+# Gmail/Outlook/Hotmail
 
 En este artículo te enseñaremos a como realizar la implementación del correo **Gmail/Outlook/Hotmail** usando IMAP y SMTP con nuestra plataforma de mensajería de **[Chat Búho.](https://buho.la/chat)**
 

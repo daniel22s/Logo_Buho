@@ -1,4 +1,4 @@
-# Añadir macros
+# Macros
 
 En este artículo aprenderás a como utilizar la función de macros.
 

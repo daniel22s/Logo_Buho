@@ -1,4 +1,4 @@
-# Añadir equipos
+# Equipos
 
 Los equipos le permiten organizar a sus agentes en grupos según sus responsabilidades. Un usuario puede formar parte de varios equipos. Puede asignar conversaciones a un equipo cuando trabaje en colaboración.
 

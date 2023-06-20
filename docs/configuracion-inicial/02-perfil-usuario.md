@@ -1,4 +1,4 @@
-# Configurar su perfil
+# Perfil de usuario
 
 Asimismo puede cambiar su contraseña en esta página.
 

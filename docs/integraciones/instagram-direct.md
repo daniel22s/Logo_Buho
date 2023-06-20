@@ -1,4 +1,4 @@
-# Pasos para la integración de Instagram Direct
+# Instagram Direct
 
 En este artículo aprenderás como implementar Instagram Messenger a nuestra plataforma de mensajería de **[Chat Búho.](https://buho.la/chat)**
 

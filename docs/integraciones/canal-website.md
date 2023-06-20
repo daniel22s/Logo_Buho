@@ -1,4 +1,4 @@
-# Pasos para la integración del canal Website
+# Canal Website
 En este artículo aprenderás como implementar el canal de Website en nuestra plataforma de **[Chat Búho.](https://buho.la/chat)**
 
 ## Módulo Ajustes

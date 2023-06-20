@@ -1,4 +1,4 @@
-# Configurar los datos generales de su cuenta
+# Datos generales
 
 En esta pantalla puede actualizar la información de su organización. Puede actualizar el nombre o el idioma utilizado en la cuenta cambiando la configuración como se muestra a continuación.
 

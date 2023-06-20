@@ -49,8 +49,7 @@ html[data-theme='dark'] {
   font-family: 'Poppins';
 }
 
-footer,
-a.navbar__brand {
+footer {
   display: none;
 }
 
@@ -72,7 +71,8 @@ a.navbar__brand {
   text-align: center;
   border-radius: 12px;
   border: 1px solid #e7ebf0;
-  box-shadow: 0 0 30px rgb(0 27 65 / 10%);
+  /* box-shadow: 0 0 30px rgb(0 27 65 / 10%); */
+  padding: 5px;
 }
 
 .navbar {
@@ -124,4 +124,8 @@ button.aa-DetachedSearchButton {
 .aa-DetachedSearchButton:focus {
   border-color: rgba(36, 70, 232,1) !important;
   box-shadow: rgb(36 70 232 / 15%) 0 0 0 3px, inset rgb(36 70 232 / 15%) 0 0 0 2px !important;
+}
+
+a.card.padding--lg.cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module {
+  box-shadow: unset;
 }

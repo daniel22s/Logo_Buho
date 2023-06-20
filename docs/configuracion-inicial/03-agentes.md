@@ -1,4 +1,4 @@
-# Añadir agentes
+# Agentes
 Un agente es miembro de su equipo de atención al cliente. Los agentes podrán ver y responder a los mensajes de sus usuarios.
 
 Para agregar agentes a tu cuenta de Chat Búho, puedes usar el enlace **'Haz clic aquí para invitar a un miembro del equipo'.**

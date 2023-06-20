@@ -1,4 +1,4 @@
-# Añadir etiquetas
+# Etiquetas
 
 Las etiquetas te ayudan a **clasificar las conversaciones y a priorizarlas**. Puedes asignar la etiqueta a una conversación desde el panel lateral del chat.
 
