@@ -1,6 +1,8 @@
 # Exportar contactos
  En este artículo te enseñaremos a cómo exportar tus contactos de manera masiva, usando nuestra plataforma de mensajería de **[Chatbuho](https://buho.la/chat)**
 
+ <iframe width="900" height="505" src="https://www.youtube.com/embed/HdropynsFcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
  ## Obtén datos de la cuenta
  Primero deberas obtener los siguientes datos:
 - ID de la cuenta

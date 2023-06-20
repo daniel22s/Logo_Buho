@@ -74,11 +74,17 @@ Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo
 
 ![Alt text](img/10_masivos.png)
 
- 2. Completa los datos solicitados **(ID número de teléfono /ID de la cuenta de WhatsApp Business/ Token)** y sube tu base de datos de excel.
+ 2. Completa los datos solicitados 
+   - **ID número de teléfono** = **ID_NUMBER**
+   - **ID de la cuenta de WhatsApp Business**  = **WABA_ID**
+   - **Token** = **TOKEN_API**
+
+
+  Y sube tu base de datos de excel.
 
 ![Alt text](img/11_masivos.png)
 
- 3. Ingresa el nombre de la **plantilla** que has creado previamente o **redacta un mensaje** para enviar a tus clientes.
+ 1. Ingresa el nombre de la **plantilla** que has creado previamente o **redacta un mensaje** para enviar a tus clientes.
 
 ![Alt text](img/12_masivos.png)
 
