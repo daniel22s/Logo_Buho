@@ -9,7 +9,7 @@ Primero deberás escoger e ingresar al canal de chat.
 
 Dentro de las bandeja de entrada que seleccionaste, visualizarás 3 pestañas: **Mías / Sin Asignar / Todos.** Ingresa a la sección donde deseas aplicar la **asignación masiva.**
 
-![Alt text](img/masiva-de-chats_02.jpg)
+
 
 ## Haz click en el cuadro de selección
 Luego coloca el cursor encima de los chats y aparecerá un cuadro de selección, **haz check** en todos los chats que desees asignar de manera masiva.

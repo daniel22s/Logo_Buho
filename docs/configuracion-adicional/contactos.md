@@ -8,7 +8,7 @@ Selecciona el módulo **Contactos** en la pantalla de inicio.
 
 Se abrirá una pantalla que tendrá los contactos (si ya están añadidos). Puedes crear un contacto nuevo, seleccionando el botón de **Nuevo Contacto**, ubicado en la parte superior derecha.
 
-![Alt text](img/masiva-de-chats_02.jpg)
+![Alt text](img/contactos_02.jpg)
 
 Se abrirá un formulario para **crear el nuevo contacto**, se deberán llenar los siguientes campos:
 
