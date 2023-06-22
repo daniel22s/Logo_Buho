@@ -1,6 +1,17 @@
 # Documentación Chat Buho
 
-Repositorio de documentación de nuestro sistema de facturación electrónica [Fastura](https://buho.la/fastura/). Aquí encontrarás guías y tutoriales para maximizar el uso de nuestra plataforma. 
+Repositorio de documentación de nuestro sistema omnicanal [Chat Buho](https://buho.la/chat/). Aquí encontrarás guías y tutoriales para maximizar el uso de nuestra plataforma. 
+
+Tener en cuenta la estructura general del contenido que debe tener cada artículo:
+- Título y Descripción
+- Introducción
+- Configuración inicial
+- Funciones y uso básico
+- Funciones avanzadas
+- Casos de uso
+- Problemas comunes y sus soluciones
+- Preguntas frecuentes
+- Recursos Adicionales
 
 Si estas colaborando con nosotros usa los siguientes comandos:
 
