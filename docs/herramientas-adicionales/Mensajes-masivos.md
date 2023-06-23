@@ -2,6 +2,9 @@
 
 WhatsApp Marketing con **Chat Buho (WAM)** es un servicio gratuito diseñado exclusivamente para nuestros clientes de **Chat Búho.** Esta solución práctica te permitirá aprovechar al máximo el envío de campañas de WhatsApp marketing a través del **API oficial de WhatsApp**, el cual ya está integrado en Chat Buho.
 
+
+<iframe width="100%" height="505" src="https://www.youtube.com/embed/wtJ4iqpWdFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Obtén los datos del API de WhatsApp
 
 Para obtener los datos del API de WhatsApp, previamente debes tener creado el app y agregado el número celular, para saber como crearlo, visita el siguiente **[artículo](/docs/whatsapp-api-facebook/Pasos-para-la-integracion-de-WhatsApp-API.md)**.
