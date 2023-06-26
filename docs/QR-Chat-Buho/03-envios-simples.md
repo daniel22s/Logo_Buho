@@ -4,12 +4,11 @@
 
 <iframe width="100%" height="505" src="https://www.youtube.com/embed/_VyiLs_9ZGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Ingresa a el módulo **Envío Simple**, y visualizarás las diferentes opciones de envio de mensajes personalizados.
-
 :::info NOTA:
 Selecciona el botón deslizable **¿Guardar esto como plantilla?**, en caso de que desees volver a usar el mensaje.
-
 :::
+
+Ingresa a el módulo **Envío Simple**, y visualizarás las diferentes opciones de envio de mensajes personalizados.
 
 
 1. **Texto Simple:**
@@ -28,7 +27,6 @@ Selecciona el botón deslizable **¿Guardar esto como plantilla?**, en caso de q
 
 
 3. **Mensaje con Botón:**
-
       1. Seleccione el dispositivo.
       2. Seleccione el contacto.
       3. Escriba el mensaje, puede añadirle formato y emojis.
