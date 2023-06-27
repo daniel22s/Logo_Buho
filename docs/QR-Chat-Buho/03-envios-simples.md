@@ -12,28 +12,33 @@ Ingresa a el módulo **Envío Simple**, y visualizarás las diferentes opciones 
 
 
 1. **Texto Simple:**
+
       1. Seleccione el dispositivo.
       2. Seleccione el contacto.
       3. Escriba el mensaje, puede añadirle formato y emojis.
       4. Envía el mensaje.
-
+![Alt text](img/texto_simple_01.png)
 
 2. **Texto Multimedia:**
+
+
       1. Seleccione el dispositivo.
       2. Seleccione el contacto.
       3. Seleccione el archivo multimedia(imagen/video)
       4. Escriba el mensaje, puede añadirle formato y emojis.
       5. Envía el mensaje.
-
+![Alt text](img/texto_multimedia_01.png)
 
 3. **Mensaje con Botón:**
+
+
       1. Seleccione el dispositivo.
       2. Seleccione el contacto.
       3. Escriba el mensaje, puede añadirle formato y emojis.
       4. Escriba un pie de página.
       5. Añada botones o respuestas rápidas.
-
-
+      6. Envía el mensaje.
+![Alt text](img/mensaje_boton_01.png)
 
 
 :::danger IMPORTANTE:
