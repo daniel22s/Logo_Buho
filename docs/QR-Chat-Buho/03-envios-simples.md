@@ -13,7 +13,7 @@ Ingresa a el módulo **Envío Simple**, y visualizarás las diferentes opciones 
 
  1. **Texto Simple:**
 
-Selecciona el botón **Texto Simple** aparecerá un formulario. Sigue estos pasos:
+Selecciona el botón **Texto Simple** y aparecerá un formulario. Sigue estos pasos:
 
       1. Seleccione el dispositivo.
       2. Añada el contacto/Receptor.
@@ -23,7 +23,7 @@ Selecciona el botón **Texto Simple** aparecerá un formulario. Sigue estos paso
 
 1. **Texto Multimedia:**
 
-Selecciona el botón **Texto Multimedia** aparecerá un formulario. Sigue estos pasos:
+Selecciona el botón **Texto Multimedia** y aparecerá un formulario. Sigue estos pasos:
 
       1. Seleccione el dispositivo.
       2. Añada el contacto/Receptor.
@@ -34,7 +34,7 @@ Selecciona el botón **Texto Multimedia** aparecerá un formulario. Sigue estos 
 
 3. **Mensaje con Botón:**
 
-Selecciona el botón **Mensaje con Botón** aparecerá un formulario. Sigue estos pasos:
+Selecciona el botón **Mensaje con Botón** y aparecerá un formulario. Sigue estos pasos:
       1. Seleccione el dispositivo.
       2. Añada el contacto/Receptor.
       3. Escriba el mensaje, puede añadirle formato y emojis.

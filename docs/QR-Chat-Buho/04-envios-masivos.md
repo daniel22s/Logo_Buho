@@ -14,7 +14,7 @@ Luego visualizarás las siguientes opciones para enviar mensajes masivos:
 
 **1. Lista de contactos**
 
-Selecciona el botón **Lista de contactos** y te aparecerá un formulario. Sigue estos pasos:
+Selecciona el botón **Lista de contactos** y  aparecerá un formulario. Sigue estos pasos:
 
 ![Alt text](img/envios_masivos_03.png)
 
@@ -32,12 +32,13 @@ Selecciona el botón deslizable **Seleccionar todos los contactos,** para import
 
 **2. Importar contactos desde CSV**
 
-Selecciona el botón **Importar contactos desde CSV** y te aparecerá un formulario. Sigue estos pasos:
+Selecciona el botón **Importar contactos desde CSV** y  aparecerá un formulario. Sigue estos pasos:
 
 ![Alt text](img/envios_masivos_05.png)
     1. Selecciona el dispositivo.
-    2. Descarga el CSV ejemplo (Importar Contactos), donde llenarás 2 campos phone_number,message.Luego Sube tu archivo excel y aparecerán en la plataforma.
-    3. Finalmente selecciona el botón Enviar Ahora.
+    2. Descarga el CSV ejemplo (Importar Contactos), donde llenarás 2 campos phone_number,message.
+    3. Luego Sube tu archivo excel y aparecerán en la plataforma.
+    4. Finalmente selecciona el botón Enviar Ahora.
 
 ![Alt text](img/envios_masivos_04.png)
 
