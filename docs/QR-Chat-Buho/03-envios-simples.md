@@ -11,29 +11,32 @@ Selecciona el botón deslizable **¿Guardar esto como plantilla?**, en caso de q
 Ingresa a el módulo **Envío Simple**, y visualizarás las diferentes opciones de envio de mensajes personalizados.
 
 
-1. **Texto Simple:**
+ 1. **Texto Simple:**
+
+Selecciona el botón **Texto Simple** aparecerá un formulario. Sigue estos pasos:
 
       1. Seleccione el dispositivo.
-      2. Seleccione el contacto.
+      2. Añada el contacto/Receptor.
       3. Escriba el mensaje, puede añadirle formato y emojis.
       4. Envía el mensaje.
 ![Alt text](img/texto_simple_01.png)
 
-2. **Texto Multimedia:**
+1. **Texto Multimedia:**
 
+Selecciona el botón **Texto Multimedia** aparecerá un formulario. Sigue estos pasos:
 
       1. Seleccione el dispositivo.
-      2. Seleccione el contacto.
-      3. Seleccione el archivo multimedia(imagen/video)
+      2. Añada el contacto/Receptor.
+      3. Seleccione el archivo multimedia (imagen/video)
       4. Escriba el mensaje, puede añadirle formato y emojis.
       5. Envía el mensaje.
 ![Alt text](img/texto_multimedia_01.png)
 
 3. **Mensaje con Botón:**
 
-
+Selecciona el botón **Mensaje con Botón** aparecerá un formulario. Sigue estos pasos:
       1. Seleccione el dispositivo.
-      2. Seleccione el contacto.
+      2. Añada el contacto/Receptor.
       3. Escriba el mensaje, puede añadirle formato y emojis.
       4. Escriba un pie de página.
       5. Añada botones o respuestas rápidas.
