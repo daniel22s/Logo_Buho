@@ -11,7 +11,7 @@ Selecciona el botón deslizable **¿Guardar esto como plantilla?**, en caso de q
 Ingresa a el módulo **Envío Simple**, y visualizarás las diferentes opciones de envio de mensajes personalizados.
 
 
- 1. **Texto Simple:**
+ **1. Texto Simple:**
 
 Selecciona el botón **Texto Simple** y aparecerá un formulario. Sigue estos pasos:
 
@@ -21,7 +21,7 @@ Selecciona el botón **Texto Simple** y aparecerá un formulario. Sigue estos pa
       4. Envía el mensaje.
 ![Alt text](img/texto_simple_01.png)
 
-1. **Texto Multimedia:**
+**2. Texto Multimedia:**
 
 Selecciona el botón **Texto Multimedia** y aparecerá un formulario. Sigue estos pasos:
 
@@ -32,7 +32,7 @@ Selecciona el botón **Texto Multimedia** y aparecerá un formulario. Sigue esto
       5. Envía el mensaje.
 ![Alt text](img/texto_multimedia_01.png)
 
-3. **Mensaje con Botón:**
+**3. Mensaje con Botón:**
 
 Selecciona el botón **Mensaje con Botón** y aparecerá un formulario. Sigue estos pasos:
       1. Seleccione el dispositivo.
