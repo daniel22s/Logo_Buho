@@ -25,10 +25,6 @@ Una vez creado el nombre del dispositivo, escanea el **código Qr** y listo el d
 ![Alt text](img/dispositivos_04.jpg)
 
 
-
-
-
-
 ## Funciones extra en dispositivos
 
 
