@@ -23,8 +23,6 @@ Selecciona el botón **Texto Simple** y aparecerá un formulario. Sigue estos pa
 
         
 
-
-
 **2. Texto Multimedia:**
 
 Selecciona el botón **Texto Multimedia** y aparecerá un formulario. Sigue estos pasos:
