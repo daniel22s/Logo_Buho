@@ -49,7 +49,10 @@ const config = {
       }),
     ],
   ],
-  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+  plugins: [
+    require.resolve("@cmfcmf/docusaurus-search-local"),
+    'plugin-image-zoom',
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -128,6 +131,9 @@ const config = {
       },
       theme: {
         customCss: require.resolve('./src/css/custom.css'),
+      },
+      imageZoom: {
+        selector: '.markdown img',
       },
     }),
     scripts: [
