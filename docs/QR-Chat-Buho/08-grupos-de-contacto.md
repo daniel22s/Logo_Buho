@@ -23,7 +23,7 @@ Te aparecerá un formulario **Editar contacto**, sólo deberás asignar en el ca
 
 ![Alt text](img/grupos_05.png)
 
-Listo, finalmente se visualizará así tu lista de contactos.
+**Listo**, finalmente se visualizará así, tu lista de contactos.
 
 ![Alt text](img/grupos_06.png)
 
