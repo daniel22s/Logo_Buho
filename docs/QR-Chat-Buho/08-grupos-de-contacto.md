@@ -5,18 +5,31 @@
 
 Ingresa a el módulo **Contactos** y selecciona el botón **Grupos de contacto**.
 
+![Alt text](img/grupos_01.png)
+
 Luego selecciona el botón **Crear Grupo**.
 
-Y se habrá creado el nombre del grupo.
+![Alt text](img/grupos_02.png)
 
-Posteriormente para asignar a los contactos dentro de un grupo, selecciona el botón de **Acción**.
+Ingresa el nombre del grupo y selecciona el botón **Guardar** para crear el grupo.
 
-Te aparecerá un formulario **Editar contacto** y podrás editar los siguientes campos.Sigue los siguiente pasos
+![Alt text](img/grupos_03.png)
 
-1. **Nombre de usuario:**
-2. **Número de WhatsApp:**
-3. **Seleccionar grupo:**
-4. Luego selecciona el boton de **Guardar**.
+Posteriormente para asignar a los contactos dentro de un grupo, dirígete a el módulo de **Contactos** Y selecciona el botón de **Acción** y **Editar**.
+
+![Alt text](img/grupos_04.png)
+
+Te aparecerá un formulario **Editar contacto**, sólo deberás asignar en el campo **Seleccionar Grupo** y selecciona el botón **Guardar**.
+
+![Alt text](img/grupos_05.png)
+
+Listo, finalmente se visualizará así tu lista de contactos.
+
+![Alt text](img/grupos_06.png)
+
+
+
+
 
 
 
