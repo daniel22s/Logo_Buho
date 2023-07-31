@@ -32,12 +32,12 @@ Tu bandeja de entrada esta lista, puedes dirigirte a más ajustes y podrás conf
 ![Alt text](img/gmail-outlook-hotmail-06.jpg)
 
 ## Activar IMAP
-Luego ingrese a la bandeja de gmail / Configuración, habilite **IMAP** e ingrese los siguientes datos en los campos:
+Luego ingrese a la bandeja de gmail / Configuración, habilite el check azul **IMAP** e ingrese los siguientes datos en los campos:
 
 * **Dirección:** Ingrese **imap.gmail.com**
 * **Puerto:** Ingrese el puerto **993** de gmail, si tuvieras outlook ingresa a este **[link](https://support.microsoft.com/es-es/office/configuraci%C3%B3n-del-servidor-que-necesitar%C3%A1-de-su-proveedor-de-correo-electr%C3%B3nico-c82de912-adcc-4787-8283-45a1161f3cc3)** para ver los puertos.
 * **Iniciar sesión:** Ingresa tu **correo** donde recibirás los mensajes.
-* **Contraseña:** Para **generar la contraseña de app de Gmail, ingresa a este** **[link](https://buho.la/ayuda/productos/chat-buho/mas-articulos/como-crear-contrasena-de-aplicaciones-para-gmail)** para realizarlo paso a paso. Copia la contraseña e ingresala en el campo. En caso que tengas el proveedor de correo como **Outlook**, deberás solo ingresar tu contraseña normal de inicio de sesión.
+* **Contraseña:** Para **generar la contraseña de app de Gmail, ingresa a este** **[link](/docs/mas-articulos/Crear-contraseña-de%20aplicaciones-para-Gmail.md)** para realizarlo paso a paso. Copia la contraseña e ingresala en el campo. En caso que tengas el proveedor de correo como **Outlook**, deberás solo ingresar tu contraseña normal de inicio de sesión.
 
 ![Alt text](img/gmail-outlook-hotmail-07.png)
 
