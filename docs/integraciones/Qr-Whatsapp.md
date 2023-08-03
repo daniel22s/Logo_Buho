@@ -25,8 +25,8 @@ Luego seleccionas el botón **Copiar**.
 
 ( img de token de usuario)
 
-## Ahora sí, a conectarnos con Qr Chatbúho!
-Luego de obtener todos los datos de la cuenta, dirígete a https://ejemplo y llena los campos de Número de WhatsApp, ID de la cuenta y Token de usuario.
+## Listo, conectate con Qr WhatsApp!
+Luego de obtener todos los datos de la cuenta, dirígete al **[formulario de integración](https://ejemplo)** y llena los campos de **Número de WhatsApp**, **ID de la cuenta** y **Token de usuario.**
 
 (img de form)
 
