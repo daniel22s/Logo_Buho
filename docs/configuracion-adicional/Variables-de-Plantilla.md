@@ -21,7 +21,7 @@ Para usar una variable, escriba dos corchetes dobles  **{{** al redactar un nuev
 ![Alt text](img/variables_02.png)
 
 :::success NOTA:
-Chatbuho admite variables en respuestas **predefinidas/macros/automatización**.
+Chatbúho admite variables en respuestas **predefinidas/macros/automatización**.
 :::
 
 
@@ -42,7 +42,7 @@ Chatbuho admite variables en respuestas **predefinidas/macros/automatización**.
 
 **¿Qué pasa si la variable no existe?**
 
-Si intenta enviar una variable indefinida, Chatwoot mostrará una advertencia.
+Si intenta enviar una variable indefinida, se mostrará una advertencia.
 
 ![Alt text](img/variables_04.png)
 
