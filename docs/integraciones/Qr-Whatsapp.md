@@ -26,7 +26,7 @@ Luego seleccionas el botón **Copiar**.
 ![Alt text](../herramientas-adicionales/img/03_exportar_contactos.png)
 
 ## Listo, conectate con Qr WhatsApp!
-Luego de obtener todos los datos de la cuenta, dirígete al **[formulario de integración](https://ejemplo)** y llena los campos de **Número de WhatsApp**, **ID de la cuenta** y **Token de usuario.**
+Luego de obtener todos los datos de la cuenta, dirígete al **[formulario de integración](https://static.buho.la/chat/qr/)** y llena los campos de **Número de WhatsApp**, **ID de la cuenta** y **Token de usuario.**
 
 ![Alt text](img/qr-chatbuho-03.png)
 
