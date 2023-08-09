@@ -14,7 +14,9 @@ Para **habilitar/deshabilitar CSAT**, ingresamos al módulo **Ajustes** ⚙️ l
 
 ![Alt text](img/csat_02.png)
 
-Y finalmente deberá activarlo (CSAT está deshabilitado de forma predeterminada).
+Y finalmente deberá **activar la encuesta de satisfacción** (CSAT está deshabilitado de forma predeterminada).
+
+![Alt text](img/csat_03.png)
 
 
 
