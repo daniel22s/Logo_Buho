@@ -4,7 +4,7 @@ En este artículo te enseñaremos a como realizar la implementación del WhatsAp
 
 :::info MIRA:
 
-Mira nuestro video de la implementación con **[WhatsApp API](https://buho.la/ayuda/productos/chat-buho/whatsapp-api-y-facebook/video-de-integracion-con-whatsapp-api).**
+ Nuestro video de la implementación con **[WhatsApp API](/docs/whatsapp-api-facebook/Video-de-integracion-con-WhatsApp-API.md).**
 
 :::
 
