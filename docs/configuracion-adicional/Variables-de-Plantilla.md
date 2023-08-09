@@ -4,12 +4,12 @@ Las variables son texto de marcador de posición en los mensajes, que se reempla
 
 Cuando se crea un mensaje con variables, se reemplazará por el valor apropiado.
 
-# Módulo Ajustes
+## Módulo Ajustes
 Primero ingresamos al módulo **Ajustes** ⚙️ luego a **Respuesta predefinidas** y selecciona el botón **Añadir respuesta predefinida**.
 
 ![Alt text](img/variables_01.png)
 
-# Creando mensaje con variable
+## Creando mensaje con variable
 Posteriormente aparecerá el siguiente formulario, con los siguientes campos:
 * **Código corto**: Es el nombre de la respuesta predefinida **"Saludo_soporte"**.
 * **Contenido**: En esta sección crearás el mensaje insertando la variable.
@@ -25,7 +25,7 @@ Chatbúho admite variables en respuestas **predefinidas/macros/automatización**
 :::
 
 
-# Lista de variables de respuestas predefinidas
+## Lista de variables de respuestas predefinidas
 
 |       Variable       |                        Descripción                       |
 |:--------------------:|:--------------------------------------------------------:|

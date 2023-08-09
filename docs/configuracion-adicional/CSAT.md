@@ -4,11 +4,11 @@ El **CSAT (puntaje de satisfacción del cliente)** generalmente representa qué 
 
 Se calcula haciendo una pregunta, como "Califica tu conversación". Hay una escala de emoji de encuesta correspondiente. Después de enviar la calificación, el cliente puede dar más comentarios, lo cual es opcional.
 
-# CSAT en la bandeja de entrada
+## CSAT en la bandeja de entrada
 
 ![Alt text](img/csat_01.png)
 
-# Habilitar CSAT
+## Habilitar CSAT
 
 Para **habilitar/deshabilitar CSAT**, ingresamos al módulo **Ajustes** ⚙️ luego vaya a la **configuración de la bandeja de entrada**.
 
