@@ -13,8 +13,8 @@ Puede asignar rápidamente una prioridad a cada conversación en función de su 
 
 ## Estableciendo una prioridad
 
-Para asignar una prioridad ubicate en la barra lateral, en la misma sección donde puedes añadir equipos y etiquetas, visualice los siguientes pasos enumerados.
-(img enumerada)
+Para asignar una prioridad ubícate en la barra lateral, en la misma sección donde puedes añadir equipos y etiquetas, visualice los siguientes pasos enumerados.
+
 
 **1.** Selecciona la conversación.
 
@@ -22,12 +22,16 @@ Para asignar una prioridad ubicate en la barra lateral, en la misma sección don
 
 **3.** Seleccione la prioridad.
 
-Una vez asignada, puede ver la prioridad en la lista de conversaciones, y tambien se visualizará como una actividad en la conversación.
+![Alt text](img/prioridad_01.png)
 
-(img ejemplo)
 
-Asimismo, puede establecer la prioridad desde el menú contextual, simplemente haga clic derecho en la conversación y establezca la prioridad.
+Una vez asignada, puede ver la prioridad en la lista de conversaciones, y tambien se **visualizará como una actividad en la conversación**.
 
+![Alt text](img/prioridad_02.png)
+
+Asimismo, puede establecer la prioridad desde el menú contextual, simplemente **haga clic derecho en la conversación** y establezca la prioridad.
+
+![Alt text](img/prioridad_03.png)
 
 :::info CONSEJO:
 ### **¿Cómo aprovechar al máximo la función?** 
