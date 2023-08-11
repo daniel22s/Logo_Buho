@@ -1,4 +1,8 @@
 # WhatsApp Qr
+En este artículo te enseñaremos a como conectar tu cuenta de WhatsApp con el código Qr
+
+<p> <iframe width="100%" height="505" src="https://www.youtube.com/embed/OWBae5VsZoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></p>
+
 ## Obtén datos de la cuenta
 Primero deberás obtener los siguientes datos:
 * Numero de WhatsApp.
@@ -25,7 +29,7 @@ Luego seleccionas el botón **Copiar**.
 
 ![Alt text](../herramientas-adicionales/img/03_exportar_contactos.png)
 
-## Listo, conectate con Qr WhatsApp!
+## Listo, conéctate con Qr WhatsApp!
 Luego de obtener todos los datos de la cuenta, dirígete al **[formulario de integración](https://static.buho.la/chat/qr/)** y llena los campos de **Número de WhatsApp**, **ID de la cuenta** y **Token de usuario.**
 
 ![Alt text](img/qr-chatbuho-03.png)
