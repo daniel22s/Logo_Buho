@@ -63,4 +63,4 @@ Para seleccionar una función deseada, simplemente haga clic en ella.
 
 Una vez que haya hecho clic en una opción, se abrirá el modal de **Sugerencia de respuesta con IA** , que muestra contenido generado por IA. Para insertar el contenido en el editor, haga clic en el botón **Usar esta sugerencia**.
 
-![Alt text](img/ia_aplicacion_05.png)
+![Alt text](img/ia_aplicacion_06.png)
