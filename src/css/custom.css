@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 :root {
   --ifm-color-primary: #2346E8;
@@ -18,11 +18,11 @@
   --ifm-color-primary-lightest: #6B84EF;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-font-family-base: 'poppins';
-  --ifm-heading-color: #314167;
-  --ifm-color-gray-900: #4b587a;
-  --ifm-hover-overlay: #EBF3FF;
-  --ifm-color-emphasis-700: #4b587a;
+  --ifm-font-family-base: 'Inter';
+  --ifm-heading-color: #020f3c;
+  --ifm-color-gray-900: #031863;
+  --ifm-hover-overlay: #f6f8fe;
+  --ifm-color-emphasis-700: #031863;
   --ifm-menu-link-sublist-icon: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16px' height='16px' viewBox='0 0 24 24'><path fill='rgba(75,88,122,1)' d='M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z'></path></svg>");
 
 }
@@ -45,8 +45,12 @@ html[data-theme='dark'] {
   --ifm-navbar-background-color: #00122e;
 }
 
+html[data-theme='dark'] .theme-doc-markdown.markdown {
+  background: #142845;
+}
+
 *{
-  font-family: 'Poppins';
+  font-family: 'Inter';
 }
 
 footer {
@@ -71,8 +75,9 @@ footer {
   text-align: center;
   border-radius: 12px;
   border: 1px solid #e7ebf0;
-  /* box-shadow: 0 0 30px rgb(0 27 65 / 10%); */
   padding: 5px;
+  background: #fff;
+  /* box-shadow: 0 0 30px rgb(0 27 65 / 10%); */
 }
 
 .navbar {
@@ -85,8 +90,30 @@ main {
   line-height: 21px;
 }
 
+.menu__link {
+  font-size: .85rem;
+}
+
+.menu__list {
+  padding-right: 8px;
+}
+
+.menu__list-item-collapsible,
+.menu__link, .menu__caret {
+  border-radius: 6px;
+}
+
 .menu__caret {
-  transform: scale(.8);
+  transform: scale(.6);
+}
+
+.aa-Form:focus-within {
+  border-color: rgb(36 70 232) !important;
+  box-shadow: 0 0 0px 3px rgb(36 70 232 / 15%) !important;
+}
+
+.aa-Label svg, .aa-LoadingIndicator svg {
+  color: rgb(36 70 232);
 }
 
 ::-webkit-scrollbar {
@@ -114,7 +141,7 @@ main {
 }
 
 button.aa-DetachedSearchButton {
-  background-color: #F4F5F6;
+  background-color: #f6f8fe;
   border: 1px solid #eaeef7;
   border-radius: 6px;
 }
@@ -128,4 +155,18 @@ button.aa-DetachedSearchButton {
 
 a.card.padding--lg.cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module {
   box-shadow: unset;
+}
+
+.cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module {
+  box-shadow: unset !important;
+}
+
+.theme-doc-markdown.markdown {
+  background: #f6f8fe;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.docSidebarContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Sidebar-styles-module{
+  border-right: none !important;
 }
