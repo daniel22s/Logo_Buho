@@ -4,20 +4,33 @@ Con WhatsApp API podras integrar todos tus canales de comunicación en nuestra p
 
 Te brindaremos de manera resumida los pasos a realizar:
 
-1. Debes contar con Fanpage / Página de Facebook y ser administrador de la cuenta.
-2. Ingresa a **[Facebook developers](https://developers.facebook.com/?locale=es_ES)**.
-3. Crea tu app en Facebook developers.
-4. Agrega el producto WhatsApp API a tu Aplicación.
-5. Añade el número de integración.
-6. Selecciona el número de la integración y obtén el **ID de número de teléfono** y **ID de cuenta de negocio**.
-7. Crea el token permanente / clave API.
-8. Configura el Webhook.
-9. Ingresa a la plataforma **[Chatbúho](https://chat.buho.la/)** y llena todos los datos del formulario de WhatsApp.
-10. Activa el modo del App a producción.
-11. Configura el método de pago,**[más información](/docs/whatsapp-api-facebook/Como-agregar-una-tarjeta-de-crédito-o-débito-a-la-plataforma-de-WhatsApp-Business.md)**.
-12. Configura el perfil de tu cuenta de WhatsApp API, [más información](/docs/whatsapp-api-facebook/Añadir-foto-perfil.md).
-13. Crea plantillas de mensajes. [más información](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md)
-14. Activa a **producción** el app de la integración.
+**1.** Debes contar con Fanpage / Página de Facebook y ser administrador de la cuenta.
+
+**2.** Ingresa a **[Facebook developers](https://developers.facebook.com/?locale=es_ES)**.
+
+**3.** Crea tu app en Facebook developers.
+
+**4.** Agrega el producto WhatsApp API a tu Aplicación.
+
+**5.** Añade el número de integración.
+
+**6.** Selecciona el número de la integración y obtén el **ID de número de teléfono** y **ID de cuenta de negocio**.
+
+**7.** Crea el token permanente / clave API.
+
+**8.** Configura el Webhook.
+
+**9.** Ingresa a la plataforma **[Chatbúho](https://chat.buho.la/)** y llena todos los datos del formulario de WhatsApp.
+
+**10.** Activa el modo del App a producción.
+
+**11.** Configura el método de pago,**[más información](/docs/whatsapp-api-facebook/Como-agregar-una-tarjeta-de-crédito-o-débito-a-la-plataforma-de-WhatsApp-Business.md)**.
+
+**12.** Configura el perfil de tu cuenta de WhatsApp API, **[más información](/docs/whatsapp-api-facebook/Añadir-foto-perfil.md)**.
+
+**13.** Crea plantillas de mensajes. **[más información](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md)**.
+
+**14.** Activa a **producción** el app de la integración.
 
 ## Ventajas de usar WhatsApp API
 
@@ -33,7 +46,7 @@ Puedes brindar información de tu empresa al cliente, tales como una descripció
 
 Una de las características más destacadas de WhatsApp Business API es la automatización de mensajes enviados a todos tus clientes. Esto quiere decir, que puedes configurar todos los mensajes tales como mensajes de bienvenida, de ausencia o de notificaciones
 
-### Crear ‘respuestas rápidas’ para reducir el tiempo de respuesta
+### Crear respuestas rápidas para reducir el tiempo de respuesta
 
 Si quieres mejorar aún mucho más el uso de WhatsApp Business API, puedes crear ‘respuestas rápidas’ para reducir el tiempo de respuesta. Para ello, esta herramienta de mensajería te permite guardar todos los mensajes importantes, para que lo puedas usar con otros usuarios que tengan las mismas consultas. 
 
