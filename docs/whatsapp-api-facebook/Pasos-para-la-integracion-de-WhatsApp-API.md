@@ -239,5 +239,7 @@ Mira nuestro video de la **[implementación con WhatsApp API](/docs/whatsapp-api
 :::info RECUERDA:
 
 Después de estos pasos, puede hacer pruebas de conversaciones en la plataforma de **[Chat Búho](https://buho.la/chat).**
-Asimismo deberás crear las plantillas de mensajes para iniciar una conversación pasadas las 24 horas, para saber cómo realizarlo, **[mira este artículo](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md).**
+También deberás crear las plantillas de mensajes para iniciar una conversación pasadas las 24 horas, para saber cómo realizarlo, **[mira este artículo](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md).**
+
+Asimismo deberás [configurar tu metodo de pago](/docs/whatsapp-api-facebook/Como-agregar-una-tarjeta-de-crédito-o-débito-a-la-plataforma-de-WhatsApp-Business.md) comenzar a utilizar las plantillas de mensajes.
 :::
