@@ -1,6 +1,6 @@
 # Conexión WhatsApp Qr
 
-Con WhatsApp Qr podrás conectar tu cuenta de WhatsApp con nuestra plataforma de mensajería ChatBúho, de  forma fácil y rápida.
+Con WhatsApp Qr podrás conectar tu cuenta de WhatsApp a nuestra plataforma de mensajería ChatBúho, de  forma fácil y rápida.
 
 Te brindaremos de manera resumida los pasos a realizar:
 
