@@ -1,60 +1,24 @@
 # WhatsApp Qr
-En este artículo te enseñaremos a como conectar tu cuenta de WhatsApp con el código Qr
 
-<p> <iframe width="100%" height="505" src="https://www.youtube.com/embed/OWBae5VsZoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></p>
+Con WhatsApp Qr podrás conectar tu cuenta de WhatsApp con la plataforma de mensajería ChatBúho, de una forma fácil y rápida.
+Te brindaremos de manera resumida los pasos a realizar.
 
-## Obtén datos de la cuenta
-Primero deberás obtener los siguientes datos:
-* Numero de WhatsApp.
-* ID de la cuenta.
-* Token de usuario.
+1. Crear cuenta de WhatsApp Messenger/ Business en el celular.
+2. Tener acceso a la cuenta de la Plataforma Chatbúho.
+3. Obtener ID de la cuenta.
+4. Obtener Token de usuario.
+5. Ingresar y crea tu bandeja de entrada en https://static.buho.la/chat/qr/
+6. Completar los 3 campos del formulario y envíar.
+7. Se creará automaticamente la bandeja de entrada con el número de WhatsApp añadido.
+8. Recibirás un **código Qr** de BuhoBot en la plataforma.
+9. Escanea el **código Qr** y Listo! ya puedes enviar y recibir mensajes.
 
-### Número de WhatsApp
-Es el nombre de la bandeja de entrada, sugerimos colocar el número que conectarás. **Ejemplo: 926648515WS**
+:::info IMPORTANTE
 
-![Alt text](img/qr-chatbuho-01.png)
+Te sugerimos leer nuestro artículo detallado y video explicativo.
 
-### ID de la cuenta
-Para obtener este dato, dirígete a tu plataforma de Chatbúho , e ingresa a **Ajustes ⚙️ > Configuración de la cuenta**, ubícate en la sección **ID de la cuenta** y selecciona el botón **Copiar**.
-
-![Alt text](img/qr-chatbuho-02.png)
-
-### Token de usuario
-Posteriormente, para obtener el **Token de acceso**, dirígete a **Ajustes de Perfil > Token de acceso**.
-
-![Alt text](../herramientas-adicionales/img/02_exportar_contactos.png)
-
-
-Luego seleccionas el botón **Copiar**.
-
-![Alt text](../herramientas-adicionales/img/03_exportar_contactos.png)
-
-## Listo, conéctate con Qr WhatsApp!
-Luego de obtener todos los datos de la cuenta, dirígete al **[formulario de integración](https://static.buho.la/chat/qr/)** y llena los campos de **Número de WhatsApp**, **ID de la cuenta** y **Token de usuario.**
-
-![Alt text](img/qr-chatbuho-03.png)
-
-Una vez ingresados los datos, selecciona el botón **Enviar** y aparecerá el mensaje de **Conexión Qr Satisfactoria!**
-
-![Alt text](img/qr-chatbuho-04.png)
-
-Luego dirígete nuestra plataforma de mensajería **[https://chat.buho.la/](https://chat.buho.la/)**, y visualizarás la **bandeja de entrada** que creaste con el nombre ingresado en la sección número de WhatsApp.
-
-![Alt text](img/qr-chatbuho-01.png)
-
-Posteriormente, al seleccionar la bandeja de entrada visualizarás el siguiente mensaje de **BuhoBot**
-**"⚡️ QRCode successfully generated!"**.
-
-![Alt text](img/qr-chatbuho-05.png)
-
- Escanea el código Qr con el dispositivo que conectarás a WhatsApp y **¡Listo!** aparecerá este mensaje de confirmación **"🚀 Connection successfully established!**.
-
-
-
-
-:::info RECUERDA
-El código Qr tiene una vigencia de 40 segundos, si no escaneaste el cógido durante ese lapso, se creará otro por defecto.
 :::
+
 
 
 
