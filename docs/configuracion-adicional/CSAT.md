@@ -18,5 +18,11 @@ Y finalmente deberá **activar la encuesta de satisfacción** (CSAT está deshab
 
 ![Alt text](img/csat_03.png)
 
+:::info NOTA
+
+También puede ver un [informe](#) de las calificaciones de sus conversaciones para monitorear el desempeño de su equipo de soporte.
+
+:::
+
 
 
