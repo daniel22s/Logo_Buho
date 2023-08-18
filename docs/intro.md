@@ -4,7 +4,7 @@ slug: /
 title: Cómo empezar
 ---
 
-# ChatBuho
+# ChatBúho
 
 ## ¡Bienvenido a la documentación de ChatBúho!
 

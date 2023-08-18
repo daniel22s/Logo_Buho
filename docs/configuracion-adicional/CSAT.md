@@ -20,7 +20,7 @@ Y finalmente deberá **activar la encuesta de satisfacción** (CSAT está deshab
 
 :::info NOTA
 
-También puede ver un [informe](#) de las calificaciones de sus conversaciones para monitorear el desempeño de su equipo de soporte.
+También puede ver un **[informe](/docs/reportes/03-CSAT.md)** de las calificaciones de sus conversaciones para monitorear el desempeño de su equipo de soporte.
 
 :::
 
