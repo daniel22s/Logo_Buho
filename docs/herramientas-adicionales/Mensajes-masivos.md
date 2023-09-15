@@ -49,6 +49,8 @@ Una vez ingresado a la bandeja de entrada, selecciona la pestaña **Configuraci�
 ## Prepara tu base de datos
 Posteriormente **crea un archivo de Excel** con los campos **name** (nombres) y **phone_number** (números de WhatsApp de tus destinatarios). Asegúrate de incluir el **código del país** **51XX-XXX-XXX** en el número y de eliminar cualquier signo o carácter especial.
 
+La plantilla solo aceptará 1 sola variable que es el nombre del receptor.
+
 **Ejemplo:**
 **[Descargar excel de ejemplo](img/excel_ejemplo.xlsx)**
 
@@ -61,8 +63,10 @@ Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo
 :::
 
 ## Crea tu plantilla de WhatsApp
- Es fundamental contar con una plantilla en idioma SPANISH/ESPAÑOL de WhatsApp aprobada antes de enviar tus campañas. 
- Crea tu plantilla de WhatsApp, viendo este **[video](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md)**.
+ * Es fundamental contar con una plantilla en idioma SPANISH/ESPAÑOL de WhatsApp aprobada antes de enviar tus campañas. 
+ * Crea tu plantilla de WhatsApp, viendo este **[video](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md)**.
+ * La plantilla solo aceptará 1 sola variable que es el nombre del receptor.
+  
 
 :::info RECUERDA
 
