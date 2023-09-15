@@ -65,7 +65,7 @@ Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo
 ## Crea tu plantilla de WhatsApp
  * Es fundamental contar con una plantilla en idioma SPANISH/ESPAÑOL de WhatsApp aprobada antes de enviar tus campañas. 
  * Crea tu plantilla de WhatsApp, viendo este **[video](/docs/configuracion-inicial/05-Plantillas-de-mensajes.md)**.
- * La plantilla solo aceptará 1 sola variable que es el nombre del receptor.
+ * La plantilla solo aceptará 1 sola variable que es el nombre del campo name en el excel de ejemplo.
   
 
 :::info RECUERDA
