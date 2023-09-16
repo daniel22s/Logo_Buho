@@ -93,7 +93,7 @@ Para facilitarte el proceso, te ofrecemos la opción de **descargar** un ejemplo
 
 ![Alt text](img/11_masivos.png)
 
- 1. Ingresa el nombre de la **plantilla** que has creado previamente o **redacta un mensaje** para enviar a tus clientes.
+ 1. Ingresa el nombre de la **plantilla** que has creado previamente, si desea añadir más texto a tu plantilla ingresalo en la sección **redacta tu mensaje**.
 
 ![Alt text](img/12_masivos.png)
 
