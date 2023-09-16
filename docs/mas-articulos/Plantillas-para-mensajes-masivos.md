@@ -1,6 +1,6 @@
 # Plantillas para mensajes masivos
 
-En este artículo te ens*eñaremos a como crear tu plantilla de mensajes que utilizarás para enviar mensajes masivos en **[https://chat.buho.la/wam](https://chat.buho.la/wam)**
+En este artículo te enseñaremos a como crear tu plantilla de mensajes que utilizarás para enviar mensajes masivos en **[https://chat.buho.la/wam](https://chat.buho.la/wam)**
 
 ### 1. Ingresar a Facebook Developers
 
@@ -13,7 +13,7 @@ Regístrese con su cuenta de Facebook relacionada a su Página de Facebook.
 
 ### 2. Ingresa al negocio
 
-Luego ingresa al negocio de tu aplicativo que esta en texto azul.
+Luego ingresa al negocio de tu aplicativo que esta en **texto azul**.
 
 ![Alt text](img/plantillasm_02.jpg)
 
@@ -54,7 +54,7 @@ Por consiguiente para crear la plantilla, sigue estos pasos:
     
 ![Alt text](img/plantillasm_08.jpg)
 
-11.  La plantilla estará en estado de revisión.
+11.  La plantilla estará en **estado de revisión**.
 
 ![Alt text](img/plantillasm_09.jpg)
 
