@@ -4,7 +4,7 @@ En este artículo te enseñaremos a como crear tu plantilla de mensajes que util
 
 ### 1. Ingresar a Facebook Developers
 
-Ingresa a este link **[https://developers.facebook.com/?locale=es_ES](https://developers.facebook.com/?locale=es_ES)**.
+Ingresa a este link **[Facebook developer](https://developers.facebook.com/?locale=es_ES)**.
 Visualizarás la página de Facebook Developers y se ingresará a My Apps, en caso de no tener una cuenta creada, en la misma ubicación aparecerá un botón de **Iniciar, Empezar o GeT Started**, que se deberá seleccionar para crear la cuenta de facebook developers.
 
 Regístrese con su cuenta de Facebook relacionada a su Página de Facebook.
@@ -37,7 +37,7 @@ Por consiguiente para crear la plantilla, sigue estos pasos:
 ![Alt text](img/plantillasm_05.jpg)
 
 2. Selecciona la categoría **Marketing > Personalizado**.
-3. Ingresa el nombre sugerencia: **masivo**
+3. Ingresa el nombre de la plantilla, sugerencia: **masivo**
 4. Selecciona el idioma **Spanish**, no otro tipo de español.
 5. Seleciona el botón **Continuar**.
 
@@ -47,10 +47,14 @@ Por consiguiente para crear la plantilla, sigue estos pasos:
 7. En ejemplos de contenido del cuerpo, coloca un nombre para previsualizar el uso de la plantilla.
 8. En vista previa del mensaje visualizarás el ejemplo.
 9. Luego selecciona el boton **Enviar**.
+
+:::info ¿QUÉ ES UNA VARIABLE?
+Una variable se utiliza para almacenar información, el  **{{1}}** será reemplazado por el texto que coloque ahí y es modificable.
+:::
     
 ![Alt text](img/plantillasm_07.jpg)
 
-10. Confirma el idioma **Spanish**.
+1.  Confirma el idioma **Spanish**.
     
 ![Alt text](img/plantillasm_08.jpg)
 
@@ -63,7 +67,7 @@ Por consiguiente para crear la plantilla, sigue estos pasos:
 ![Alt text](img/plantillasm_10.jpg)    
   
 
-Listo, ya puedes usar la plantilla para tus mensajes masivos.
+Listo, ya puedes usar la plantilla para tus **[mensajes masivos](/docs/herramientas-adicionales/Mensajes-masivos.md )**.
 
 
 

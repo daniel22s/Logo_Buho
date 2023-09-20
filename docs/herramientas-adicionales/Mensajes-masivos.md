@@ -49,7 +49,7 @@ Una vez ingresado a la bandeja de entrada, selecciona la pestaña **Configuraci�
 ## Prepara tu base de datos
 Posteriormente **crea un archivo de Excel** con los campos **name** (nombres) y **phone_number** (números de WhatsApp de tus destinatarios). Asegúrate de incluir el **código del país** **51XX-XXX-XXX** en el número y de eliminar cualquier signo o carácter especial.
 
-La plantilla solo aceptará 1 sola variable que es el nombre del receptor.
+La plantilla solo **aceptará 1 sola variable** que es el nombre del receptor.
 
 **Ejemplo:**
 **[Descargar excel de ejemplo](img/excel_ejemplo.xlsx)**

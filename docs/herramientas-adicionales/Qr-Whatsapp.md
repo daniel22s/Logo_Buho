@@ -50,6 +50,10 @@ Luego dirígete nuestra plataforma de mensajería **[https://chat.buho.la/](http
 Posteriormente, al seleccionar la bandeja de entrada visualizarás el siguiente mensaje de **BuhoBot**
 **"⚡️ QRCode successfully generated!"**.
 
+:::info RECUERDA
+El código Qr tiene una vigencia de **40 segundos**, si no escaneaste el cógido durante ese lapso, se creará otro por defecto.
+:::
+
 ![Alt text](img/qr_05.png)
 
  Escanea el código Qr con el dispositivo que conectarás a WhatsApp y **¡Listo!** aparecerá este mensaje de confirmación **"🚀 Connection successfully established!**.
@@ -57,7 +61,6 @@ Posteriormente, al seleccionar la bandeja de entrada visualizarás el siguiente 
 
 
 
-:::info RECUERDA
-El código Qr tiene una vigencia de **40 segundos**, si no escaneaste el cógido durante ese lapso, se creará otro por defecto.
-:::
+
+
 
