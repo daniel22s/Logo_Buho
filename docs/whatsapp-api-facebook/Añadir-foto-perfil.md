@@ -18,7 +18,7 @@ Luego visualizarás las cuentas de WhatsApp, selecciona tu cuenta y **haz click 
 
 Después  te dirigirá a la sección de **configuración del número** o cuenta de WhatsApp API.
 
-Selecciona **elegir archivo** y añade tu foto de perfil empresarial, asimismo también puedes añadir mayor descripción y otros datos relacionados de tu empresa.
+Selecciona **elegir archivo** y añade tu foto de perfil empresarial, asimismo también puedes añadir mayor descripción y otros datos relacionados de tu empresa. Finalmente selecciona el botón de Guardar y los clientes podrán la foto de perfil empresarial.
 
 ![Alt text](img/fotoperfil_04.png)
 

@@ -1,0 +1,1 @@
+# Solución de opcion de conversación no disponible para anuncios
