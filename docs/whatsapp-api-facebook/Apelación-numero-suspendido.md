@@ -1,16 +1,16 @@
 # Apelar número suspendido
-En este artículo te guiaremos a apelar una suspensión de cuenta de WhatsApp, son varias las razones por las que WhatsApp puede suspenderte la cuenta, sin embargo te ayudaremos paso a paso a como recuperarlo, sin embargo es importante conocer que puede tardar tiempo o incluso no pueda recuperarse.
+En este artículo te guiaremos a **apelar una suspensión de cuenta de WhatsApp**, son varias las razones por las que WhatsApp puede suspenderte la cuenta, sin embargo te ayudaremos paso a paso a como recuperarlo, sin embargo es importante conocer que puede tardar tiempo o incluso no pueda recuperarse.
 
 
 :::info ¿Cuáles son las posibles causas?
 
-* Actividades sospechosas en la cuenta:* 
+* **Actividades sospechosas en la cuenta:** 
 Realizar acciones repetidas de manera continua puede desembocar en un bloqueo temporal.
-* Por reporte de usuarios: WhatsApp incluye el botón de reporte en todos los usuarios. 
+* **Por reporte de usuarios:** WhatsApp incluye el botón de reporte en todos los usuarios. 
 Por lo que, si molestas reiteradamente a otras personas, tu cuenta puede quedar suspendida.
-* Abuso de servicios: 
+* **Abuso de servicios:** 
 WhatsApp aboga por un uso responsable de la aplicación. Abusar de los reenvíos, de los mensajes de difusión o utilizar listas de contactos que no conoces pueden ser motivo de bloqueo.
-* Por riesgo de delito:
+* **Por riesgo de delito:**
 WhatsApp puede suspender cuentas si encuentra indicios de delito en la actividad. Sonados fueron los casos de una broma que provocó suspensiones en bloque por cambiar los nombres de grupo por títulos relacionados con la pederastia.
 
 :::
