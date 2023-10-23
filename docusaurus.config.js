@@ -126,8 +126,9 @@ const config = {
         // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['php'],
       },
       theme: {
         customCss: require.resolve('./src/css/custom.css'),
