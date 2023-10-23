@@ -15,8 +15,8 @@ La página de descripción general es una vista en vivo. Se muestra debajo de la
 Las conversaciones abiertas muestran 3 tipos de métricas en el nivel de cuenta.
 
 * **Abierto:** número total de conversaciones abiertas en la cuenta.
-* **Desatendida:** número total de **[conversaciones desatendidas](/docs/reportes/00-conceptos-principales.md)** en la cuenta.
-* **Sin asignar:** número total de **[conversaciones sin asignar](/docs/reportes/00-conceptos-principales.md)** en la cuenta.
+* **Desatendida:** número total de conversaciones desatendidas en la cuenta.
+* **Sin asignar:** número total de conversaciones sin asignar en la cuenta.
 
 ### Estado del agente
 
