@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Documentación Chat Buho',
   tagline: 'Guia oficial completa y definitiva de Chat Buho',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Senati_Per%C3%BA_logo.svg',
 
   // Set the production url of your site here
   url: 'https://documentacion.chat.buho.la',
@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Senati_Per%C3%BA_logo.svg',
         },
         items: [
           // {
