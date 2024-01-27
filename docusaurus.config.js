@@ -11,14 +11,14 @@ const config = {
   favicon: 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Senati_Per%C3%BA_logo.svg',
 
   // Set the production url of your site here
-  url: 'https://documentacion.chat.buho.la',
+  url: 'https://daniel22s.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/documentacion/',
+  baseUrl: '/Logo_Buho/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
-  projectName: 'documentacion',
+  organizationName: 'daniel22s',
+  projectName: 'Logo_Buho',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://dondeestudiar.pe/wp-content/uploads/2023/02/SENATI-instituto.jpg',
       navbar: {
         title: '',
         logo: {
